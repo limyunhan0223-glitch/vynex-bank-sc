@@ -1,0 +1,87 @@
+{
+  "approvedSourcesUnchanged": true,
+  "timelineBoundariesUnchanged": true,
+  "transitions": [
+    {
+      "frame": 6179,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 7748,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 8866,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 10356,
+      "pixelIdentical": false,
+      "meanChannelDifference": [
+        0.0060696373456790124,
+        0.004037905092592593,
+        0.008154899691358025
+      ]
+    },
+    {
+      "frame": 12024,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 13375,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 14989,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 16778,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "frame": 18481,
+      "pixelIdentical": true,
+      "meanChannelDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

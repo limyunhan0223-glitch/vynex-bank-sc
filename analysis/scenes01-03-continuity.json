@@ -1,0 +1,63 @@
+{
+  "approvedSource": [
+    {
+      "path": "src\\scenes\\Scene01Storytelling.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\components\\SupportWorkstation.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\components\\VectorObjects.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\components\\Primitives.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\components\\KnowledgeObject.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\components\\StoryMotion.tsx",
+      "unchanged": true
+    },
+    {
+      "path": "src\\theme\\colors.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src\\theme\\typography.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src\\theme\\illustration.ts",
+      "unchanged": true
+    },
+    {
+      "path": "src\\theme\\motion.ts",
+      "unchanged": true
+    }
+  ],
+  "transitions": [
+    {
+      "from": "s01-exact-end.png",
+      "to": "s02-start-corrected.png",
+      "pixelIdentical": true
+    },
+    {
+      "from": "s01-exact-end.png",
+      "to": "combined-s02-start.png",
+      "pixelIdentical": true
+    },
+    {
+      "from": "s02-end.png",
+      "to": "s03-start.png",
+      "pixelIdentical": true
+    }
+  ],
+  "masterSHA256": "0868ab018c5fe4cd53873e046ad3aec6c08dc82d0de58f5f5d7c6e46feefa514",
+  "scope": "Scenes 01-03 only; Scene 04 not implemented"
+}

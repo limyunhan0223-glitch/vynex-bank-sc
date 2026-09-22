@@ -1,0 +1,41 @@
+[
+  {
+    "file": "Scenes01-03-Review.mp4",
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60",
+    "frames": 6179,
+    "videoDuration": 102.98333333333333,
+    "audioDuration": 102.98299319727892,
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 6179
+  },
+  {
+    "file": "Scene02-Solution.mp4",
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60",
+    "frames": 1233,
+    "videoDuration": 20.55,
+    "audioDuration": 20.55,
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 1233
+  },
+  {
+    "file": "Scene03-CustomerJourney.mp4",
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60",
+    "frames": 2781,
+    "videoDuration": 46.35,
+    "audioDuration": 46.35,
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 2781
+  }
+]

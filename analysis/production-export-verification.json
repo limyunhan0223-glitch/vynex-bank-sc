@@ -1,0 +1,41 @@
+[
+  {
+    "file": "Scenes04-12-Review.mp4",
+    "frames": 13833,
+    "fps": "60",
+    "width": 1920,
+    "height": 1080,
+    "videoSeconds": 230.55,
+    "audioSeconds": 230.5390022675737,
+    "codec": "h264",
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 13833
+  },
+  {
+    "file": "AI-Helpdesk-FullFilm-Scenes01-12.mp4",
+    "frames": 20012,
+    "fps": "60",
+    "width": 1920,
+    "height": 1080,
+    "videoSeconds": 333.53333333333336,
+    "audioSeconds": 333.5219954648526,
+    "codec": "h264",
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 20012
+  },
+  {
+    "file": "Scene11-to-12-Transition.mp4",
+    "frames": 720,
+    "fps": "60",
+    "width": 1920,
+    "height": 1080,
+    "videoSeconds": 12.0,
+    "audioSeconds": 12.0,
+    "codec": "h264",
+    "audioRate": 44100,
+    "audioChannels": 2,
+    "decodedFrames": 720
+  }
+]

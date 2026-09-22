@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Scenes04-12-Review.mp4",
+    "localSecond": 1,
+    "masterSecond": 103.98333333333333,
+    "correlation": 0.9999947790063469,
+    "rmsRatio": 0.9997256499203732
+  },
+  {
+    "file": "Scenes04-12-Review.mp4",
+    "localSecond": 77,
+    "masterSecond": 179.98333333333335,
+    "correlation": 0.9999900386662355,
+    "rmsRatio": 0.9997109307263323
+  },
+  {
+    "file": "Scenes04-12-Review.mp4",
+    "localSecond": 185,
+    "masterSecond": 287.98333333333335,
+    "correlation": 0.9999909473183799,
+    "rmsRatio": 0.9996052921975167
+  },
+  {
+    "file": "Scenes04-12-Review.mp4",
+    "localSecond": 227,
+    "masterSecond": 329.98333333333335,
+    "correlation": 0.999993527427338,
+    "rmsRatio": 0.9996553020617469
+  },
+  {
+    "file": "AI-Helpdesk-FullFilm-Scenes01-12.mp4",
+    "localSecond": 1,
+    "masterSecond": 1,
+    "correlation": 0.9999877559079973,
+    "rmsRatio": 0.999604157184113
+  },
+  {
+    "file": "AI-Helpdesk-FullFilm-Scenes01-12.mp4",
+    "localSecond": 105,
+    "masterSecond": 105,
+    "correlation": 0.9999946542499069,
+    "rmsRatio": 0.9996069666853953
+  },
+  {
+    "file": "AI-Helpdesk-FullFilm-Scenes01-12.mp4",
+    "localSecond": 205,
+    "masterSecond": 205,
+    "correlation": 0.99999228627471,
+    "rmsRatio": 0.9995634204858102
+  },
+  {
+    "file": "AI-Helpdesk-FullFilm-Scenes01-12.mp4",
+    "localSecond": 328,
+    "masterSecond": 328,
+    "correlation": 0.9999848978223782,
+    "rmsRatio": 0.9992823249080419
+  },
+  {
+    "file": "Scene11-to-12-Transition.mp4",
+    "localSecond": 1,
+    "masterSecond": 304.01666666666665,
+    "correlation": 0.9999920582020013,
+    "rmsRatio": 0.9995724939515115
+  },
+  {
+    "file": "Scene11-to-12-Transition.mp4",
+    "localSecond": 8,
+    "masterSecond": 311.01666666666665,
+    "correlation": 0.9999894954921459,
+    "rmsRatio": 0.9997265224781288
+  }
+]

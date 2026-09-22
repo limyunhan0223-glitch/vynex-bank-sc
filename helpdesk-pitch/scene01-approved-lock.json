@@ -1,0 +1,42 @@
+[
+  {
+    "sha256": "6C61C3E15E4C62A8F61D1D4D85B5F15F28241788A2F6DB47DA77B69E03BFAFBC",
+    "path": "src\\scenes\\Scene01Storytelling.tsx"
+  },
+  {
+    "sha256": "F134036B98B405485A43BE0038DA0B49EBAE54F32C5D89BFA911910474587A58",
+    "path": "src\\components\\SupportWorkstation.tsx"
+  },
+  {
+    "sha256": "6A4970BDE1D9EAD135D9A3524E676EBECAABF1CA059424CD37FFCE2F3C3E2D7F",
+    "path": "src\\components\\VectorObjects.tsx"
+  },
+  {
+    "sha256": "F3811F21C6B2CF9F8549982733EA77A433395A777CC2AB7FDB142779A9ED7A5E",
+    "path": "src\\components\\Primitives.tsx"
+  },
+  {
+    "sha256": "F8D966AE4A989FEC8544D3819D1CE13E4ABC00E9D95E63478308554D2E3480FE",
+    "path": "src\\components\\KnowledgeObject.tsx"
+  },
+  {
+    "sha256": "A16FF50D91D5A8AACD5F0D6DD4A1BAAED31375024B11E8766EC36F83CE9F80AB",
+    "path": "src\\components\\StoryMotion.tsx"
+  },
+  {
+    "sha256": "2662D99724613BC577C0B48A7FAF15027769B48DF9967B784B163CA36E059D88",
+    "path": "src\\theme\\colors.ts"
+  },
+  {
+    "sha256": "90AA65262C50BA2B837A7B847FD6F7A906CF678CBEB19E15698CDA968F13B74C",
+    "path": "src\\theme\\typography.ts"
+  },
+  {
+    "sha256": "35347E973DD0C92F0B89D6681E0462F02B3635A39CB72ED10A781CD18E369BF5",
+    "path": "src\\theme\\illustration.ts"
+  },
+  {
+    "sha256": "C04781EE4E6AFC497B9FE09578E0C841736351F8053BEA5210C2253420663068",
+    "path": "src\\theme\\motion.ts"
+  }
+]

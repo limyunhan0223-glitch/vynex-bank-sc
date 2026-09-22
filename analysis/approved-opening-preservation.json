@@ -1,0 +1,5 @@
+{
+  "decodedFramesUnchanged": true,
+  "frames": 6179,
+  "note": "Container concatenation may normalize H.264 headers; every decoded opening frame is pixel-identical."
+}

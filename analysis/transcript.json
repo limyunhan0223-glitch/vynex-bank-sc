@@ -1,0 +1,4747 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.06,
+    "text": " Customer support today operates across multiple channels, email, WhatsApp, telephone, but behind",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.36,
+        "word": " Customer",
+        "probability": 0.8915958404541016
+      },
+      {
+        "start": 0.36,
+        "end": 0.72,
+        "word": " support",
+        "probability": 0.8567116856575012
+      },
+      {
+        "start": 0.72,
+        "end": 1.14,
+        "word": " today",
+        "probability": 0.9918338060379028
+      },
+      {
+        "start": 1.14,
+        "end": 1.62,
+        "word": " operates",
+        "probability": 0.98057621717453
+      },
+      {
+        "start": 1.62,
+        "end": 2.14,
+        "word": " across",
+        "probability": 0.9981032609939575
+      },
+      {
+        "start": 2.14,
+        "end": 2.52,
+        "word": " multiple",
+        "probability": 0.991280734539032
+      },
+      {
+        "start": 2.52,
+        "end": 3.38,
+        "word": " channels,",
+        "probability": 0.9980019927024841
+      },
+      {
+        "start": 3.62,
+        "end": 4.08,
+        "word": " email,",
+        "probability": 0.7827756404876709
+      },
+      {
+        "start": 4.52,
+        "end": 4.78,
+        "word": " WhatsApp,",
+        "probability": 0.8731176853179932
+      },
+      {
+        "start": 5.4,
+        "end": 5.88,
+        "word": " telephone,",
+        "probability": 0.9866129755973816
+      },
+      {
+        "start": 6.4,
+        "end": 6.76,
+        "word": " but",
+        "probability": 0.9799109697341919
+      },
+      {
+        "start": 6.76,
+        "end": 7.06,
+        "word": " behind",
+        "probability": 0.994411289691925
+      }
+    ]
+  },
+  {
+    "start": 7.06,
+    "end": 13.5,
+    "text": " every inquiry, support teams are still doing much of the work manually. Understanding the issue,",
+    "words": [
+      {
+        "start": 7.06,
+        "end": 7.52,
+        "word": " every",
+        "probability": 0.9975172281265259
+      },
+      {
+        "start": 7.52,
+        "end": 8.18,
+        "word": " inquiry,",
+        "probability": 0.9518864750862122
+      },
+      {
+        "start": 8.54,
+        "end": 8.84,
+        "word": " support",
+        "probability": 0.9893444180488586
+      },
+      {
+        "start": 8.84,
+        "end": 9.16,
+        "word": " teams",
+        "probability": 0.9979816675186157
+      },
+      {
+        "start": 9.16,
+        "end": 9.46,
+        "word": " are",
+        "probability": 0.9988355040550232
+      },
+      {
+        "start": 9.46,
+        "end": 9.74,
+        "word": " still",
+        "probability": 0.9910252094268799
+      },
+      {
+        "start": 9.74,
+        "end": 10.02,
+        "word": " doing",
+        "probability": 0.9989849925041199
+      },
+      {
+        "start": 10.02,
+        "end": 10.3,
+        "word": " much",
+        "probability": 0.9981316924095154
+      },
+      {
+        "start": 10.3,
+        "end": 10.48,
+        "word": " of",
+        "probability": 0.9980077147483826
+      },
+      {
+        "start": 10.48,
+        "end": 10.6,
+        "word": " the",
+        "probability": 0.9968398809432983
+      },
+      {
+        "start": 10.6,
+        "end": 10.84,
+        "word": " work",
+        "probability": 0.9994496703147888
+      },
+      {
+        "start": 10.84,
+        "end": 11.44,
+        "word": " manually.",
+        "probability": 0.9754711389541626
+      },
+      {
+        "start": 12.44,
+        "end": 12.68,
+        "word": " Understanding",
+        "probability": 0.9792134165763855
+      },
+      {
+        "start": 12.68,
+        "end": 13.24,
+        "word": " the",
+        "probability": 0.9989653825759888
+      },
+      {
+        "start": 13.24,
+        "end": 13.5,
+        "word": " issue,",
+        "probability": 0.996587872505188
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 20.0,
+    "text": " searching for information, troubleshooting, updating tickets, and deciding where each case",
+    "words": [
+      {
+        "start": 14.16,
+        "end": 14.34,
+        "word": " searching",
+        "probability": 0.9771603345870972
+      },
+      {
+        "start": 14.34,
+        "end": 14.7,
+        "word": " for",
+        "probability": 0.999695897102356
+      },
+      {
+        "start": 14.7,
+        "end": 15.14,
+        "word": " information,",
+        "probability": 0.9981903433799744
+      },
+      {
+        "start": 15.9,
+        "end": 16.56,
+        "word": " troubleshooting,",
+        "probability": 0.9939370453357697
+      },
+      {
+        "start": 16.98,
+        "end": 17.54,
+        "word": " updating",
+        "probability": 0.9845564365386963
+      },
+      {
+        "start": 17.54,
+        "end": 18.02,
+        "word": " tickets,",
+        "probability": 0.997786283493042
+      },
+      {
+        "start": 18.52,
+        "end": 18.72,
+        "word": " and",
+        "probability": 0.9988372921943665
+      },
+      {
+        "start": 18.72,
+        "end": 19.0,
+        "word": " deciding",
+        "probability": 0.9983394145965576
+      },
+      {
+        "start": 19.0,
+        "end": 19.42,
+        "word": " where",
+        "probability": 0.9986501336097717
+      },
+      {
+        "start": 19.42,
+        "end": 19.66,
+        "word": " each",
+        "probability": 0.9993360638618469
+      },
+      {
+        "start": 19.66,
+        "end": 20.0,
+        "word": " case",
+        "probability": 0.9993332028388977
+      }
+    ]
+  },
+  {
+    "start": 20.0,
+    "end": 27.58,
+    "text": " should go. Knowledge is spread across documents, historical cases, emails, and individual experience.",
+    "words": [
+      {
+        "start": 20.0,
+        "end": 20.42,
+        "word": " should",
+        "probability": 0.9993718266487122
+      },
+      {
+        "start": 20.42,
+        "end": 20.7,
+        "word": " go.",
+        "probability": 0.9990214109420776
+      },
+      {
+        "start": 21.42,
+        "end": 21.68,
+        "word": " Knowledge",
+        "probability": 0.9900707602500916
+      },
+      {
+        "start": 21.68,
+        "end": 22.02,
+        "word": " is",
+        "probability": 0.9993966817855835
+      },
+      {
+        "start": 22.02,
+        "end": 22.3,
+        "word": " spread",
+        "probability": 0.9993933439254761
+      },
+      {
+        "start": 22.3,
+        "end": 22.6,
+        "word": " across",
+        "probability": 0.9990574717521667
+      },
+      {
+        "start": 22.6,
+        "end": 23.2,
+        "word": " documents,",
+        "probability": 0.9987533092498779
+      },
+      {
+        "start": 23.68,
+        "end": 24.08,
+        "word": " historical",
+        "probability": 0.9991201758384705
+      },
+      {
+        "start": 24.08,
+        "end": 24.64,
+        "word": " cases,",
+        "probability": 0.9991822838783264
+      },
+      {
+        "start": 25.22,
+        "end": 25.5,
+        "word": " emails,",
+        "probability": 0.9343845248222351
+      },
+      {
+        "start": 26.24,
+        "end": 26.34,
+        "word": " and",
+        "probability": 0.9425978660583496
+      },
+      {
+        "start": 26.34,
+        "end": 26.82,
+        "word": " individual",
+        "probability": 0.9990262985229492
+      },
+      {
+        "start": 26.82,
+        "end": 27.58,
+        "word": " experience.",
+        "probability": 0.995516836643219
+      }
+    ]
+  },
+  {
+    "start": 28.26,
+    "end": 34.14,
+    "text": " And as support volumes grow, one problem becomes increasingly clear. People are becoming",
+    "words": [
+      {
+        "start": 28.26,
+        "end": 28.62,
+        "word": " And",
+        "probability": 0.3740973472595215
+      },
+      {
+        "start": 28.62,
+        "end": 28.82,
+        "word": " as",
+        "probability": 0.9434193968772888
+      },
+      {
+        "start": 28.82,
+        "end": 29.1,
+        "word": " support",
+        "probability": 0.992215096950531
+      },
+      {
+        "start": 29.1,
+        "end": 29.6,
+        "word": " volumes",
+        "probability": 0.9942384958267212
+      },
+      {
+        "start": 29.6,
+        "end": 29.96,
+        "word": " grow,",
+        "probability": 0.9974480867385864
+      },
+      {
+        "start": 30.44,
+        "end": 30.54,
+        "word": " one",
+        "probability": 0.9877222776412964
+      },
+      {
+        "start": 30.54,
+        "end": 30.96,
+        "word": " problem",
+        "probability": 0.9977995753288269
+      },
+      {
+        "start": 30.96,
+        "end": 31.4,
+        "word": " becomes",
+        "probability": 0.9919191002845764
+      },
+      {
+        "start": 31.4,
+        "end": 32.02,
+        "word": " increasingly",
+        "probability": 0.9940335154533386
+      },
+      {
+        "start": 32.02,
+        "end": 32.6,
+        "word": " clear.",
+        "probability": 0.9986268281936646
+      },
+      {
+        "start": 33.26,
+        "end": 33.54,
+        "word": " People",
+        "probability": 0.8857333660125732
+      },
+      {
+        "start": 33.54,
+        "end": 33.78,
+        "word": " are",
+        "probability": 0.9987592697143555
+      },
+      {
+        "start": 33.78,
+        "end": 34.14,
+        "word": " becoming",
+        "probability": 0.9987577199935913
+      }
+    ]
+  },
+  {
+    "start": 34.14,
+    "end": 41.2,
+    "text": " the integration layer. So, what changes? We introduce one governed AI helpdesk, a single",
+    "words": [
+      {
+        "start": 34.14,
+        "end": 34.42,
+        "word": " the",
+        "probability": 0.99770587682724
+      },
+      {
+        "start": 34.42,
+        "end": 34.8,
+        "word": " integration",
+        "probability": 0.9896541237831116
+      },
+      {
+        "start": 34.8,
+        "end": 35.38,
+        "word": " layer.",
+        "probability": 0.9984214305877686
+      },
+      {
+        "start": 36.08,
+        "end": 36.8,
+        "word": " So,",
+        "probability": 0.9823492169380188
+      },
+      {
+        "start": 37.12,
+        "end": 37.32,
+        "word": " what",
+        "probability": 0.9825872778892517
+      },
+      {
+        "start": 37.32,
+        "end": 37.66,
+        "word": " changes?",
+        "probability": 0.9989198446273804
+      },
+      {
+        "start": 38.26,
+        "end": 38.26,
+        "word": " We",
+        "probability": 0.9885793924331665
+      },
+      {
+        "start": 38.26,
+        "end": 38.64,
+        "word": " introduce",
+        "probability": 0.9107813835144043
+      },
+      {
+        "start": 38.64,
+        "end": 39.14,
+        "word": " one",
+        "probability": 0.9257779121398926
+      },
+      {
+        "start": 39.14,
+        "end": 39.5,
+        "word": " governed",
+        "probability": 0.9160104990005493
+      },
+      {
+        "start": 39.5,
+        "end": 39.86,
+        "word": " AI",
+        "probability": 0.9572303891181946
+      },
+      {
+        "start": 39.86,
+        "end": 40.64,
+        "word": " helpdesk,",
+        "probability": 0.7282086213429769
+      },
+      {
+        "start": 40.88,
+        "end": 40.9,
+        "word": " a",
+        "probability": 0.9935821294784546
+      },
+      {
+        "start": 40.9,
+        "end": 41.2,
+        "word": " single",
+        "probability": 0.9978479146957397
+      }
+    ]
+  },
+  {
+    "start": 41.2,
+    "end": 45.92,
+    "text": " intelligent support layer connecting customer conversations, approved company knowledge,",
+    "words": [
+      {
+        "start": 41.2,
+        "end": 41.82,
+        "word": " intelligent",
+        "probability": 0.644679069519043
+      },
+      {
+        "start": 41.82,
+        "end": 42.16,
+        "word": " support",
+        "probability": 0.9952974915504456
+      },
+      {
+        "start": 42.16,
+        "end": 42.6,
+        "word": " layer",
+        "probability": 0.9993189573287964
+      },
+      {
+        "start": 42.6,
+        "end": 43.02,
+        "word": " connecting",
+        "probability": 0.6388667821884155
+      },
+      {
+        "start": 43.02,
+        "end": 43.68,
+        "word": " customer",
+        "probability": 0.9928213953971863
+      },
+      {
+        "start": 43.68,
+        "end": 44.38,
+        "word": " conversations,",
+        "probability": 0.9917541742324829
+      },
+      {
+        "start": 44.88,
+        "end": 45.12,
+        "word": " approved",
+        "probability": 0.9293718338012695
+      },
+      {
+        "start": 45.12,
+        "end": 45.54,
+        "word": " company",
+        "probability": 0.9864527583122253
+      },
+      {
+        "start": 45.54,
+        "end": 45.92,
+        "word": " knowledge,",
+        "probability": 0.99847811460495
+      }
+    ]
+  },
+  {
+    "start": 46.28,
+    "end": 49.98,
+    "text": " structured level one troubleshooting, and the existing ticketing environment,",
+    "words": [
+      {
+        "start": 46.28,
+        "end": 46.62,
+        "word": " structured",
+        "probability": 0.982017993927002
+      },
+      {
+        "start": 46.62,
+        "end": 47.08,
+        "word": " level",
+        "probability": 0.7382196187973022
+      },
+      {
+        "start": 47.08,
+        "end": 47.44,
+        "word": " one",
+        "probability": 0.7290503978729248
+      },
+      {
+        "start": 47.44,
+        "end": 48.0,
+        "word": " troubleshooting,",
+        "probability": 0.9919818043708801
+      },
+      {
+        "start": 48.36,
+        "end": 48.54,
+        "word": " and",
+        "probability": 0.9967304468154907
+      },
+      {
+        "start": 48.54,
+        "end": 48.66,
+        "word": " the",
+        "probability": 0.9982732534408569
+      },
+      {
+        "start": 48.66,
+        "end": 48.96,
+        "word": " existing",
+        "probability": 0.998124897480011
+      },
+      {
+        "start": 48.96,
+        "end": 49.64,
+        "word": " ticketing",
+        "probability": 0.9938838183879852
+      },
+      {
+        "start": 49.64,
+        "end": 49.98,
+        "word": " environment,",
+        "probability": 0.9991476535797119
+      }
+    ]
+  },
+  {
+    "start": 50.44,
+    "end": 56.0,
+    "text": " not by replacing the systems already in place, but by making the entire support journey work together.",
+    "words": [
+      {
+        "start": 50.44,
+        "end": 50.78,
+        "word": " not",
+        "probability": 0.996575653553009
+      },
+      {
+        "start": 50.78,
+        "end": 50.98,
+        "word": " by",
+        "probability": 0.9967691898345947
+      },
+      {
+        "start": 50.98,
+        "end": 51.38,
+        "word": " replacing",
+        "probability": 0.9989901185035706
+      },
+      {
+        "start": 51.38,
+        "end": 51.64,
+        "word": " the",
+        "probability": 0.9968042373657227
+      },
+      {
+        "start": 51.64,
+        "end": 51.86,
+        "word": " systems",
+        "probability": 0.9615718722343445
+      },
+      {
+        "start": 51.86,
+        "end": 52.4,
+        "word": " already",
+        "probability": 0.9972878694534302
+      },
+      {
+        "start": 52.4,
+        "end": 52.6,
+        "word": " in",
+        "probability": 0.9990378618240356
+      },
+      {
+        "start": 52.6,
+        "end": 52.86,
+        "word": " place,",
+        "probability": 0.9945703148841858
+      },
+      {
+        "start": 52.86,
+        "end": 53.48,
+        "word": " but",
+        "probability": 0.9985753297805786
+      },
+      {
+        "start": 53.48,
+        "end": 53.64,
+        "word": " by",
+        "probability": 0.9972792267799377
+      },
+      {
+        "start": 53.64,
+        "end": 53.94,
+        "word": " making",
+        "probability": 0.9993618130683899
+      },
+      {
+        "start": 53.94,
+        "end": 54.14,
+        "word": " the",
+        "probability": 0.9989526271820068
+      },
+      {
+        "start": 54.14,
+        "end": 54.44,
+        "word": " entire",
+        "probability": 0.9990691542625427
+      },
+      {
+        "start": 54.44,
+        "end": 54.84,
+        "word": " support",
+        "probability": 0.9937212467193604
+      },
+      {
+        "start": 54.84,
+        "end": 55.38,
+        "word": " journey",
+        "probability": 0.9985870122909546
+      },
+      {
+        "start": 55.38,
+        "end": 55.72,
+        "word": " work",
+        "probability": 0.9916263818740845
+      },
+      {
+        "start": 55.72,
+        "end": 56.0,
+        "word": " together.",
+        "probability": 0.998843789100647
+      }
+    ]
+  },
+  {
+    "start": 56.64,
+    "end": 63.26,
+    "text": " Let's see what that looks like in practice. A customer reports that an MX-500 cannot connect",
+    "words": [
+      {
+        "start": 56.64,
+        "end": 57.44,
+        "word": " Let's",
+        "probability": 0.7110950797796249
+      },
+      {
+        "start": 57.44,
+        "end": 57.58,
+        "word": " see",
+        "probability": 0.9927499294281006
+      },
+      {
+        "start": 57.58,
+        "end": 57.72,
+        "word": " what",
+        "probability": 0.9958338737487793
+      },
+      {
+        "start": 57.72,
+        "end": 57.86,
+        "word": " that",
+        "probability": 0.9853892922401428
+      },
+      {
+        "start": 57.86,
+        "end": 58.1,
+        "word": " looks",
+        "probability": 0.9962175488471985
+      },
+      {
+        "start": 58.1,
+        "end": 58.34,
+        "word": " like",
+        "probability": 0.9968728423118591
+      },
+      {
+        "start": 58.34,
+        "end": 58.5,
+        "word": " in",
+        "probability": 0.9949039220809937
+      },
+      {
+        "start": 58.5,
+        "end": 58.86,
+        "word": " practice.",
+        "probability": 0.9852767586708069
+      },
+      {
+        "start": 59.78,
+        "end": 59.84,
+        "word": " A",
+        "probability": 0.9012109041213989
+      },
+      {
+        "start": 59.84,
+        "end": 60.22,
+        "word": " customer",
+        "probability": 0.9731793999671936
+      },
+      {
+        "start": 60.22,
+        "end": 60.64,
+        "word": " reports",
+        "probability": 0.9960259199142456
+      },
+      {
+        "start": 60.64,
+        "end": 61.08,
+        "word": " that",
+        "probability": 0.9961293935775757
+      },
+      {
+        "start": 61.08,
+        "end": 61.2,
+        "word": " an",
+        "probability": 0.9778079986572266
+      },
+      {
+        "start": 61.2,
+        "end": 61.4,
+        "word": " MX",
+        "probability": 0.8946837782859802
+      },
+      {
+        "start": 61.4,
+        "end": 62.28,
+        "word": "-500",
+        "probability": 0.7250385880470276
+      },
+      {
+        "start": 62.28,
+        "end": 62.78,
+        "word": " cannot",
+        "probability": 0.9636805653572083
+      },
+      {
+        "start": 62.78,
+        "end": 63.26,
+        "word": " connect",
+        "probability": 0.9978204965591431
+      }
+    ]
+  },
+  {
+    "start": 63.26,
+    "end": 70.88,
+    "text": " to the network with Error E-102. First, the AI understands the request. It identifies the product,",
+    "words": [
+      {
+        "start": 63.26,
+        "end": 63.52,
+        "word": " to",
+        "probability": 0.997674286365509
+      },
+      {
+        "start": 63.52,
+        "end": 63.62,
+        "word": " the",
+        "probability": 0.9977108240127563
+      },
+      {
+        "start": 63.62,
+        "end": 63.9,
+        "word": " network",
+        "probability": 0.9830567240715027
+      },
+      {
+        "start": 63.9,
+        "end": 64.5,
+        "word": " with",
+        "probability": 0.9797433018684387
+      },
+      {
+        "start": 64.5,
+        "end": 64.74,
+        "word": " Error",
+        "probability": 0.23461180925369263
+      },
+      {
+        "start": 64.74,
+        "end": 65.14,
+        "word": " E",
+        "probability": 0.7099525332450867
+      },
+      {
+        "start": 65.14,
+        "end": 65.9,
+        "word": "-102.",
+        "probability": 0.7400981783866882
+      },
+      {
+        "start": 66.78,
+        "end": 67.14,
+        "word": " First,",
+        "probability": 0.9862090945243835
+      },
+      {
+        "start": 67.6,
+        "end": 67.68,
+        "word": " the",
+        "probability": 0.9863733053207397
+      },
+      {
+        "start": 67.68,
+        "end": 67.86,
+        "word": " AI",
+        "probability": 0.9833552241325378
+      },
+      {
+        "start": 67.86,
+        "end": 68.28,
+        "word": " understands",
+        "probability": 0.9801672101020813
+      },
+      {
+        "start": 68.28,
+        "end": 68.7,
+        "word": " the",
+        "probability": 0.9986590147018433
+      },
+      {
+        "start": 68.7,
+        "end": 68.98,
+        "word": " request.",
+        "probability": 0.9889178276062012
+      },
+      {
+        "start": 69.8,
+        "end": 69.86,
+        "word": " It",
+        "probability": 0.9918529391288757
+      },
+      {
+        "start": 69.86,
+        "end": 70.12,
+        "word": " identifies",
+        "probability": 0.9987252354621887
+      },
+      {
+        "start": 70.12,
+        "end": 70.6,
+        "word": " the",
+        "probability": 0.9992724061012268
+      },
+      {
+        "start": 70.6,
+        "end": 70.88,
+        "word": " product,",
+        "probability": 0.9954028129577637
+      }
+    ]
+  },
+  {
+    "start": 71.4,
+    "end": 77.8,
+    "text": " the issue, and the error code. Next, it verifies the customer using approved identifiers and",
+    "words": [
+      {
+        "start": 71.4,
+        "end": 71.46,
+        "word": " the",
+        "probability": 0.997285008430481
+      },
+      {
+        "start": 71.46,
+        "end": 71.72,
+        "word": " issue,",
+        "probability": 0.9783177375793457
+      },
+      {
+        "start": 72.2,
+        "end": 72.26,
+        "word": " and",
+        "probability": 0.9972519278526306
+      },
+      {
+        "start": 72.26,
+        "end": 72.38,
+        "word": " the",
+        "probability": 0.9950659275054932
+      },
+      {
+        "start": 72.38,
+        "end": 72.6,
+        "word": " error",
+        "probability": 0.9666063189506531
+      },
+      {
+        "start": 72.6,
+        "end": 72.96,
+        "word": " code.",
+        "probability": 0.9978358149528503
+      },
+      {
+        "start": 73.6,
+        "end": 73.92,
+        "word": " Next,",
+        "probability": 0.9927045702934265
+      },
+      {
+        "start": 74.26,
+        "end": 74.5,
+        "word": " it",
+        "probability": 0.9931042790412903
+      },
+      {
+        "start": 74.5,
+        "end": 74.92,
+        "word": " verifies",
+        "probability": 0.996111273765564
+      },
+      {
+        "start": 74.92,
+        "end": 75.18,
+        "word": " the",
+        "probability": 0.9981092214584351
+      },
+      {
+        "start": 75.18,
+        "end": 75.64,
+        "word": " customer",
+        "probability": 0.994097113609314
+      },
+      {
+        "start": 75.64,
+        "end": 76.08,
+        "word": " using",
+        "probability": 0.9887752532958984
+      },
+      {
+        "start": 76.08,
+        "end": 76.5,
+        "word": " approved",
+        "probability": 0.9052610397338867
+      },
+      {
+        "start": 76.5,
+        "end": 76.96,
+        "word": " identifiers",
+        "probability": 0.9880449175834656
+      },
+      {
+        "start": 76.96,
+        "end": 77.8,
+        "word": " and",
+        "probability": 0.9423262476921082
+      }
+    ]
+  },
+  {
+    "start": 77.8,
+    "end": 83.46,
+    "text": " retrieves the relevant case context. And if the customer has already completed a troubleshooting step,",
+    "words": [
+      {
+        "start": 77.8,
+        "end": 78.38,
+        "word": " retrieves",
+        "probability": 0.9968108236789703
+      },
+      {
+        "start": 78.38,
+        "end": 78.48,
+        "word": " the",
+        "probability": 0.9980402588844299
+      },
+      {
+        "start": 78.48,
+        "end": 78.76,
+        "word": " relevant",
+        "probability": 0.9923897385597229
+      },
+      {
+        "start": 78.76,
+        "end": 79.12,
+        "word": " case",
+        "probability": 0.9911971092224121
+      },
+      {
+        "start": 79.12,
+        "end": 79.64,
+        "word": " context.",
+        "probability": 0.9909194707870483
+      },
+      {
+        "start": 80.26,
+        "end": 80.42,
+        "word": " And",
+        "probability": 0.9798527956008911
+      },
+      {
+        "start": 80.42,
+        "end": 80.54,
+        "word": " if",
+        "probability": 0.9626004099845886
+      },
+      {
+        "start": 80.54,
+        "end": 80.68,
+        "word": " the",
+        "probability": 0.9978633522987366
+      },
+      {
+        "start": 80.68,
+        "end": 81.06,
+        "word": " customer",
+        "probability": 0.9988609552383423
+      },
+      {
+        "start": 81.06,
+        "end": 81.46,
+        "word": " has",
+        "probability": 0.9978992938995361
+      },
+      {
+        "start": 81.46,
+        "end": 81.84,
+        "word": " already",
+        "probability": 0.9989342093467712
+      },
+      {
+        "start": 81.84,
+        "end": 82.24,
+        "word": " completed",
+        "probability": 0.9985213875770569
+      },
+      {
+        "start": 82.24,
+        "end": 82.56,
+        "word": " a",
+        "probability": 0.9964379072189331
+      },
+      {
+        "start": 82.56,
+        "end": 83.06,
+        "word": " troubleshooting",
+        "probability": 0.9954362511634827
+      },
+      {
+        "start": 83.06,
+        "end": 83.46,
+        "word": " step,",
+        "probability": 0.9988983869552612
+      }
+    ]
+  },
+  {
+    "start": 83.46,
+    "end": 89.76,
+    "text": " the AI knows it doesn't simply ask them to do it again. Instead, it searches the approved knowledge",
+    "words": [
+      {
+        "start": 83.46,
+        "end": 84.02,
+        "word": " the",
+        "probability": 0.10880257189273834
+      },
+      {
+        "start": 84.02,
+        "end": 84.22,
+        "word": " AI",
+        "probability": 0.9170209765434265
+      },
+      {
+        "start": 84.22,
+        "end": 84.64,
+        "word": " knows",
+        "probability": 0.9566295742988586
+      },
+      {
+        "start": 84.64,
+        "end": 85.28,
+        "word": " it",
+        "probability": 0.5049684643745422
+      },
+      {
+        "start": 85.28,
+        "end": 85.6,
+        "word": " doesn't",
+        "probability": 0.994359165430069
+      },
+      {
+        "start": 85.6,
+        "end": 85.9,
+        "word": " simply",
+        "probability": 0.9972295165061951
+      },
+      {
+        "start": 85.9,
+        "end": 86.18,
+        "word": " ask",
+        "probability": 0.992637038230896
+      },
+      {
+        "start": 86.18,
+        "end": 86.46,
+        "word": " them",
+        "probability": 0.9990936517715454
+      },
+      {
+        "start": 86.46,
+        "end": 86.62,
+        "word": " to",
+        "probability": 0.9989213943481445
+      },
+      {
+        "start": 86.62,
+        "end": 86.74,
+        "word": " do",
+        "probability": 0.9982602000236511
+      },
+      {
+        "start": 86.74,
+        "end": 86.86,
+        "word": " it",
+        "probability": 0.999114453792572
+      },
+      {
+        "start": 86.86,
+        "end": 87.12,
+        "word": " again.",
+        "probability": 0.9966495633125305
+      },
+      {
+        "start": 87.62,
+        "end": 87.94,
+        "word": " Instead,",
+        "probability": 0.9896683692932129
+      },
+      {
+        "start": 88.36,
+        "end": 88.48,
+        "word": " it",
+        "probability": 0.9887458682060242
+      },
+      {
+        "start": 88.48,
+        "end": 88.84,
+        "word": " searches",
+        "probability": 0.9959732890129089
+      },
+      {
+        "start": 88.84,
+        "end": 89.08,
+        "word": " the",
+        "probability": 0.995337963104248
+      },
+      {
+        "start": 89.08,
+        "end": 89.38,
+        "word": " approved",
+        "probability": 0.9639827609062195
+      },
+      {
+        "start": 89.38,
+        "end": 89.76,
+        "word": " knowledge",
+        "probability": 0.9121040105819702
+      }
+    ]
+  },
+  {
+    "start": 89.76,
+    "end": 95.86,
+    "text": " base, finds the relevant troubleshooting guidance, and continues from the right point, step by step.",
+    "words": [
+      {
+        "start": 89.76,
+        "end": 90.2,
+        "word": " base,",
+        "probability": 0.9727539420127869
+      },
+      {
+        "start": 90.58,
+        "end": 90.9,
+        "word": " finds",
+        "probability": 0.9854309558868408
+      },
+      {
+        "start": 90.9,
+        "end": 91.1,
+        "word": " the",
+        "probability": 0.9978141784667969
+      },
+      {
+        "start": 91.1,
+        "end": 91.5,
+        "word": " relevant",
+        "probability": 0.9934497475624084
+      },
+      {
+        "start": 91.5,
+        "end": 92.14,
+        "word": " troubleshooting",
+        "probability": 0.9939375221729279
+      },
+      {
+        "start": 92.14,
+        "end": 92.46,
+        "word": " guidance,",
+        "probability": 0.998521625995636
+      },
+      {
+        "start": 92.98,
+        "end": 93.18,
+        "word": " and",
+        "probability": 0.9957641363143921
+      },
+      {
+        "start": 93.18,
+        "end": 93.66,
+        "word": " continues",
+        "probability": 0.9954505562782288
+      },
+      {
+        "start": 93.66,
+        "end": 93.94,
+        "word": " from",
+        "probability": 0.9979957342147827
+      },
+      {
+        "start": 93.94,
+        "end": 94.1,
+        "word": " the",
+        "probability": 0.9984051585197449
+      },
+      {
+        "start": 94.1,
+        "end": 94.3,
+        "word": " right",
+        "probability": 0.9985501170158386
+      },
+      {
+        "start": 94.3,
+        "end": 94.66,
+        "word": " point,",
+        "probability": 0.997474730014801
+      },
+      {
+        "start": 95.04,
+        "end": 95.3,
+        "word": " step",
+        "probability": 0.9923588633537292
+      },
+      {
+        "start": 95.3,
+        "end": 95.54,
+        "word": " by",
+        "probability": 0.6209355592727661
+      },
+      {
+        "start": 95.54,
+        "end": 95.86,
+        "word": " step.",
+        "probability": 0.9996439218521118
+      }
+    ]
+  },
+  {
+    "start": 96.36,
+    "end": 101.86,
+    "text": " Every question, every action, every outcome captured as part of the same support journey.",
+    "words": [
+      {
+        "start": 96.36,
+        "end": 96.6,
+        "word": " Every",
+        "probability": 0.9833922386169434
+      },
+      {
+        "start": 96.6,
+        "end": 97.06,
+        "word": " question,",
+        "probability": 0.9964349269866943
+      },
+      {
+        "start": 97.42,
+        "end": 97.72,
+        "word": " every",
+        "probability": 0.9884201288223267
+      },
+      {
+        "start": 97.72,
+        "end": 98.06,
+        "word": " action,",
+        "probability": 0.9977965354919434
+      },
+      {
+        "start": 98.6,
+        "end": 98.92,
+        "word": " every",
+        "probability": 0.9961347579956055
+      },
+      {
+        "start": 98.92,
+        "end": 99.36,
+        "word": " outcome",
+        "probability": 0.9994128942489624
+      },
+      {
+        "start": 99.36,
+        "end": 99.98,
+        "word": " captured",
+        "probability": 0.4989186227321625
+      },
+      {
+        "start": 99.98,
+        "end": 100.34,
+        "word": " as",
+        "probability": 0.9779298305511475
+      },
+      {
+        "start": 100.34,
+        "end": 100.54,
+        "word": " part",
+        "probability": 0.9957744479179382
+      },
+      {
+        "start": 100.54,
+        "end": 100.74,
+        "word": " of",
+        "probability": 0.9993650317192078
+      },
+      {
+        "start": 100.74,
+        "end": 100.86,
+        "word": " the",
+        "probability": 0.9971743822097778
+      },
+      {
+        "start": 100.86,
+        "end": 101.1,
+        "word": " same",
+        "probability": 0.9991586208343506
+      },
+      {
+        "start": 101.1,
+        "end": 101.46,
+        "word": " support",
+        "probability": 0.9927034378051758
+      },
+      {
+        "start": 101.46,
+        "end": 101.86,
+        "word": " journey.",
+        "probability": 0.9988276362419128
+      }
+    ]
+  },
+  {
+    "start": 102.98,
+    "end": 109.14,
+    "text": " But reliable AI depends on reliable knowledge, and that means we don't simply load everything into",
+    "words": [
+      {
+        "start": 102.98,
+        "end": 103.12,
+        "word": " But",
+        "probability": 0.9881798028945923
+      },
+      {
+        "start": 103.12,
+        "end": 103.32,
+        "word": " reliable",
+        "probability": 0.8734853267669678
+      },
+      {
+        "start": 103.32,
+        "end": 103.96,
+        "word": " AI",
+        "probability": 0.9862626791000366
+      },
+      {
+        "start": 103.96,
+        "end": 104.44,
+        "word": " depends",
+        "probability": 0.9902480244636536
+      },
+      {
+        "start": 104.44,
+        "end": 104.96,
+        "word": " on",
+        "probability": 0.9993946552276611
+      },
+      {
+        "start": 104.96,
+        "end": 105.16,
+        "word": " reliable",
+        "probability": 0.9907214641571045
+      },
+      {
+        "start": 105.16,
+        "end": 105.88,
+        "word": " knowledge,",
+        "probability": 0.999289870262146
+      },
+      {
+        "start": 106.22,
+        "end": 106.46,
+        "word": " and",
+        "probability": 0.9976683259010315
+      },
+      {
+        "start": 106.46,
+        "end": 106.66,
+        "word": " that",
+        "probability": 0.9992480874061584
+      },
+      {
+        "start": 106.66,
+        "end": 106.9,
+        "word": " means",
+        "probability": 0.9993067979812622
+      },
+      {
+        "start": 106.9,
+        "end": 107.24,
+        "word": " we",
+        "probability": 0.9697365164756775
+      },
+      {
+        "start": 107.24,
+        "end": 107.54,
+        "word": " don't",
+        "probability": 0.9991306364536285
+      },
+      {
+        "start": 107.54,
+        "end": 107.88,
+        "word": " simply",
+        "probability": 0.999300479888916
+      },
+      {
+        "start": 107.88,
+        "end": 108.18,
+        "word": " load",
+        "probability": 0.9973492622375488
+      },
+      {
+        "start": 108.18,
+        "end": 108.68,
+        "word": " everything",
+        "probability": 0.998664379119873
+      },
+      {
+        "start": 108.68,
+        "end": 109.14,
+        "word": " into",
+        "probability": 0.995781660079956
+      }
+    ]
+  },
+  {
+    "start": 109.14,
+    "end": 115.7,
+    "text": " the system. FAQs, historical tickets, product manuals, troubleshooting guides, and known issues",
+    "words": [
+      {
+        "start": 109.14,
+        "end": 109.28,
+        "word": " the",
+        "probability": 0.18854835629463196
+      },
+      {
+        "start": 109.28,
+        "end": 109.72,
+        "word": " system.",
+        "probability": 0.9530271887779236
+      },
+      {
+        "start": 110.42,
+        "end": 111.06,
+        "word": " FAQs,",
+        "probability": 0.757938802242279
+      },
+      {
+        "start": 111.22,
+        "end": 111.54,
+        "word": " historical",
+        "probability": 0.8123926520347595
+      },
+      {
+        "start": 111.54,
+        "end": 112.02,
+        "word": " tickets,",
+        "probability": 0.9953184723854065
+      },
+      {
+        "start": 112.54,
+        "end": 112.82,
+        "word": " product",
+        "probability": 0.992422878742218
+      },
+      {
+        "start": 112.82,
+        "end": 113.32,
+        "word": " manuals,",
+        "probability": 0.9989945292472839
+      },
+      {
+        "start": 113.7,
+        "end": 114.28,
+        "word": " troubleshooting",
+        "probability": 0.9916238486766815
+      },
+      {
+        "start": 114.28,
+        "end": 114.66,
+        "word": " guides,",
+        "probability": 0.9967759251594543
+      },
+      {
+        "start": 115.02,
+        "end": 115.06,
+        "word": " and",
+        "probability": 0.9977439641952515
+      },
+      {
+        "start": 115.06,
+        "end": 115.26,
+        "word": " known",
+        "probability": 0.9880901575088501
+      },
+      {
+        "start": 115.26,
+        "end": 115.7,
+        "word": " issues",
+        "probability": 0.9987360835075378
+      }
+    ]
+  },
+  {
+    "start": 115.7,
+    "end": 121.9,
+    "text": " first go through a controlled preparation process. They are reviewed, cleaned, structured, classified,",
+    "words": [
+      {
+        "start": 115.7,
+        "end": 116.26,
+        "word": " first",
+        "probability": 0.917195737361908
+      },
+      {
+        "start": 116.26,
+        "end": 116.58,
+        "word": " go",
+        "probability": 0.9972279667854309
+      },
+      {
+        "start": 116.58,
+        "end": 116.82,
+        "word": " through",
+        "probability": 0.9989136457443237
+      },
+      {
+        "start": 116.82,
+        "end": 116.98,
+        "word": " a",
+        "probability": 0.9980815649032593
+      },
+      {
+        "start": 116.98,
+        "end": 117.36,
+        "word": " controlled",
+        "probability": 0.9774894118309021
+      },
+      {
+        "start": 117.36,
+        "end": 117.76,
+        "word": " preparation",
+        "probability": 0.9804847836494446
+      },
+      {
+        "start": 117.76,
+        "end": 118.64,
+        "word": " process.",
+        "probability": 0.999576985836029
+      },
+      {
+        "start": 119.16,
+        "end": 119.28,
+        "word": " They",
+        "probability": 0.98945552110672
+      },
+      {
+        "start": 119.28,
+        "end": 119.42,
+        "word": " are",
+        "probability": 0.9954261183738708
+      },
+      {
+        "start": 119.42,
+        "end": 119.74,
+        "word": " reviewed,",
+        "probability": 0.9897564053535461
+      },
+      {
+        "start": 120.18,
+        "end": 120.36,
+        "word": " cleaned,",
+        "probability": 0.9703313708305359
+      },
+      {
+        "start": 120.78,
+        "end": 121.06,
+        "word": " structured,",
+        "probability": 0.9983879327774048
+      },
+      {
+        "start": 121.62,
+        "end": 121.9,
+        "word": " classified,",
+        "probability": 0.9982181191444397
+      }
+    ]
+  },
+  {
+    "start": 123.08,
+    "end": 128.26,
+    "text": " validated, and approved. Only then do they become part of the trusted AI knowledge base.",
+    "words": [
+      {
+        "start": 123.08,
+        "end": 123.08,
+        "word": " validated,",
+        "probability": 0.9936060905456543
+      },
+      {
+        "start": 123.6,
+        "end": 123.64,
+        "word": " and",
+        "probability": 0.9990854263305664
+      },
+      {
+        "start": 123.64,
+        "end": 123.94,
+        "word": " approved.",
+        "probability": 0.9967779517173767
+      },
+      {
+        "start": 124.92,
+        "end": 124.92,
+        "word": " Only",
+        "probability": 0.993022620677948
+      },
+      {
+        "start": 124.92,
+        "end": 125.22,
+        "word": " then",
+        "probability": 0.9879960417747498
+      },
+      {
+        "start": 125.22,
+        "end": 125.44,
+        "word": " do",
+        "probability": 0.9906617999076843
+      },
+      {
+        "start": 125.44,
+        "end": 125.6,
+        "word": " they",
+        "probability": 0.9988841414451599
+      },
+      {
+        "start": 125.6,
+        "end": 125.92,
+        "word": " become",
+        "probability": 0.9988111257553101
+      },
+      {
+        "start": 125.92,
+        "end": 126.26,
+        "word": " part",
+        "probability": 0.996538519859314
+      },
+      {
+        "start": 126.26,
+        "end": 126.5,
+        "word": " of",
+        "probability": 0.9989376664161682
+      },
+      {
+        "start": 126.5,
+        "end": 126.62,
+        "word": " the",
+        "probability": 0.9960189461708069
+      },
+      {
+        "start": 126.62,
+        "end": 127.02,
+        "word": " trusted",
+        "probability": 0.7054312825202942
+      },
+      {
+        "start": 127.02,
+        "end": 127.42,
+        "word": " AI",
+        "probability": 0.9387772083282471
+      },
+      {
+        "start": 127.42,
+        "end": 127.94,
+        "word": " knowledge",
+        "probability": 0.8523169159889221
+      },
+      {
+        "start": 127.94,
+        "end": 128.26,
+        "word": " base.",
+        "probability": 0.9897018671035767
+      }
+    ]
+  },
+  {
+    "start": 129.14,
+    "end": 134.4,
+    "text": " The same principle applies to learning. The AI does not blindly learn from every customer",
+    "words": [
+      {
+        "start": 129.14,
+        "end": 129.56,
+        "word": " The",
+        "probability": 0.9926530122756958
+      },
+      {
+        "start": 129.56,
+        "end": 129.78,
+        "word": " same",
+        "probability": 0.9972518086433411
+      },
+      {
+        "start": 129.78,
+        "end": 130.22,
+        "word": " principle",
+        "probability": 0.9456843733787537
+      },
+      {
+        "start": 130.22,
+        "end": 130.76,
+        "word": " applies",
+        "probability": 0.9994478821754456
+      },
+      {
+        "start": 130.76,
+        "end": 131.02,
+        "word": " to",
+        "probability": 0.9997629523277283
+      },
+      {
+        "start": 131.02,
+        "end": 131.3,
+        "word": " learning.",
+        "probability": 0.9982578158378601
+      },
+      {
+        "start": 131.82,
+        "end": 131.92,
+        "word": " The",
+        "probability": 0.9968509078025818
+      },
+      {
+        "start": 131.92,
+        "end": 132.16,
+        "word": " AI",
+        "probability": 0.9934351444244385
+      },
+      {
+        "start": 132.16,
+        "end": 132.5,
+        "word": " does",
+        "probability": 0.9966750144958496
+      },
+      {
+        "start": 132.5,
+        "end": 132.76,
+        "word": " not",
+        "probability": 0.9996320009231567
+      },
+      {
+        "start": 132.76,
+        "end": 133.02,
+        "word": " blindly",
+        "probability": 0.9867466688156128
+      },
+      {
+        "start": 133.02,
+        "end": 133.52,
+        "word": " learn",
+        "probability": 0.9989664554595947
+      },
+      {
+        "start": 133.52,
+        "end": 133.78,
+        "word": " from",
+        "probability": 0.9993895292282104
+      },
+      {
+        "start": 133.78,
+        "end": 134.1,
+        "word": " every",
+        "probability": 0.9979074001312256
+      },
+      {
+        "start": 134.1,
+        "end": 134.4,
+        "word": " customer",
+        "probability": 0.99745112657547
+      }
+    ]
+  },
+  {
+    "start": 134.4,
+    "end": 140.22,
+    "text": " conversation. A successful resolution may become candidate knowledge. But before that",
+    "words": [
+      {
+        "start": 134.4,
+        "end": 135.32,
+        "word": " conversation.",
+        "probability": 0.00041884806705638766
+      },
+      {
+        "start": 136.0,
+        "end": 136.08,
+        "word": " A",
+        "probability": 0.9799097776412964
+      },
+      {
+        "start": 136.08,
+        "end": 136.44,
+        "word": " successful",
+        "probability": 0.9957051873207092
+      },
+      {
+        "start": 136.44,
+        "end": 137.18,
+        "word": " resolution",
+        "probability": 0.997512698173523
+      },
+      {
+        "start": 137.18,
+        "end": 137.66,
+        "word": " may",
+        "probability": 0.9947181344032288
+      },
+      {
+        "start": 137.66,
+        "end": 137.92,
+        "word": " become",
+        "probability": 0.9972808361053467
+      },
+      {
+        "start": 137.92,
+        "end": 138.38,
+        "word": " candidate",
+        "probability": 0.9928507804870605
+      },
+      {
+        "start": 138.38,
+        "end": 138.72,
+        "word": " knowledge.",
+        "probability": 0.9951931238174438
+      },
+      {
+        "start": 139.48,
+        "end": 139.62,
+        "word": " But",
+        "probability": 0.9885536432266235
+      },
+      {
+        "start": 139.62,
+        "end": 139.96,
+        "word": " before",
+        "probability": 0.9815596342086792
+      },
+      {
+        "start": 139.96,
+        "end": 140.22,
+        "word": " that",
+        "probability": 0.9987143278121948
+      }
+    ]
+  },
+  {
+    "start": 140.22,
+    "end": 146.36,
+    "text": " knowledge can be trusted, it must be reviewed, validated, and approved. Human expertise stays in",
+    "words": [
+      {
+        "start": 140.22,
+        "end": 140.56,
+        "word": " knowledge",
+        "probability": 0.9974002838134766
+      },
+      {
+        "start": 140.56,
+        "end": 140.78,
+        "word": " can",
+        "probability": 0.998914361000061
+      },
+      {
+        "start": 140.78,
+        "end": 140.92,
+        "word": " be",
+        "probability": 0.9996269941329956
+      },
+      {
+        "start": 140.92,
+        "end": 141.18,
+        "word": " trusted,",
+        "probability": 0.9981065988540649
+      },
+      {
+        "start": 141.7,
+        "end": 141.82,
+        "word": " it",
+        "probability": 0.9964914917945862
+      },
+      {
+        "start": 141.82,
+        "end": 142.02,
+        "word": " must",
+        "probability": 0.9990056157112122
+      },
+      {
+        "start": 142.02,
+        "end": 142.26,
+        "word": " be",
+        "probability": 0.9995046854019165
+      },
+      {
+        "start": 142.26,
+        "end": 142.64,
+        "word": " reviewed,",
+        "probability": 0.9946563243865967
+      },
+      {
+        "start": 142.98,
+        "end": 143.24,
+        "word": " validated,",
+        "probability": 0.9972702860832214
+      },
+      {
+        "start": 143.82,
+        "end": 143.88,
+        "word": " and",
+        "probability": 0.9983533620834351
+      },
+      {
+        "start": 143.88,
+        "end": 144.24,
+        "word": " approved.",
+        "probability": 0.9972225427627563
+      },
+      {
+        "start": 144.94,
+        "end": 145.18,
+        "word": " Human",
+        "probability": 0.9671129584312439
+      },
+      {
+        "start": 145.18,
+        "end": 145.48,
+        "word": " expertise",
+        "probability": 0.949164867401123
+      },
+      {
+        "start": 145.48,
+        "end": 146.14,
+        "word": " stays",
+        "probability": 0.9950382113456726
+      },
+      {
+        "start": 146.14,
+        "end": 146.36,
+        "word": " in",
+        "probability": 0.9995427131652832
+      }
+    ]
+  },
+  {
+    "start": 146.36,
+    "end": 152.82,
+    "text": " control. When answering technical questions, the AI works from approved evidence. If the right",
+    "words": [
+      {
+        "start": 146.36,
+        "end": 146.72,
+        "word": " control.",
+        "probability": 0.9991889595985413
+      },
+      {
+        "start": 147.76,
+        "end": 148.06,
+        "word": " When",
+        "probability": 0.9846141338348389
+      },
+      {
+        "start": 148.06,
+        "end": 148.44,
+        "word": " answering",
+        "probability": 0.998559296131134
+      },
+      {
+        "start": 148.44,
+        "end": 148.92,
+        "word": " technical",
+        "probability": 0.9987791180610657
+      },
+      {
+        "start": 148.92,
+        "end": 149.48,
+        "word": " questions,",
+        "probability": 0.9986817240715027
+      },
+      {
+        "start": 149.86,
+        "end": 149.96,
+        "word": " the",
+        "probability": 0.993415117263794
+      },
+      {
+        "start": 149.96,
+        "end": 150.18,
+        "word": " AI",
+        "probability": 0.9294175505638123
+      },
+      {
+        "start": 150.18,
+        "end": 150.64,
+        "word": " works",
+        "probability": 0.9969672560691833
+      },
+      {
+        "start": 150.64,
+        "end": 150.9,
+        "word": " from",
+        "probability": 0.9981951117515564
+      },
+      {
+        "start": 150.9,
+        "end": 151.18,
+        "word": " approved",
+        "probability": 0.9768476486206055
+      },
+      {
+        "start": 151.18,
+        "end": 151.8,
+        "word": " evidence.",
+        "probability": 0.9977790713310242
+      },
+      {
+        "start": 152.32,
+        "end": 152.48,
+        "word": " If",
+        "probability": 0.994086742401123
+      },
+      {
+        "start": 152.48,
+        "end": 152.64,
+        "word": " the",
+        "probability": 0.999178946018219
+      },
+      {
+        "start": 152.64,
+        "end": 152.82,
+        "word": " right",
+        "probability": 0.979243278503418
+      }
+    ]
+  },
+  {
+    "start": 152.82,
+    "end": 158.84,
+    "text": " information exists, it retrieves that evidence and uses it to guide the response. But what happens",
+    "words": [
+      {
+        "start": 152.82,
+        "end": 153.16,
+        "word": " information",
+        "probability": 0.9993739724159241
+      },
+      {
+        "start": 153.16,
+        "end": 154.0,
+        "word": " exists,",
+        "probability": 0.9984583854675293
+      },
+      {
+        "start": 154.42,
+        "end": 154.52,
+        "word": " it",
+        "probability": 0.9966505169868469
+      },
+      {
+        "start": 154.52,
+        "end": 155.08,
+        "word": " retrieves",
+        "probability": 0.9979107081890106
+      },
+      {
+        "start": 155.08,
+        "end": 155.22,
+        "word": " that",
+        "probability": 0.9970347881317139
+      },
+      {
+        "start": 155.22,
+        "end": 155.58,
+        "word": " evidence",
+        "probability": 0.9990560412406921
+      },
+      {
+        "start": 155.58,
+        "end": 156.02,
+        "word": " and",
+        "probability": 0.946624755859375
+      },
+      {
+        "start": 156.02,
+        "end": 156.3,
+        "word": " uses",
+        "probability": 0.9950602650642395
+      },
+      {
+        "start": 156.3,
+        "end": 156.56,
+        "word": " it",
+        "probability": 0.9984914064407349
+      },
+      {
+        "start": 156.56,
+        "end": 156.7,
+        "word": " to",
+        "probability": 0.9992583394050598
+      },
+      {
+        "start": 156.7,
+        "end": 156.9,
+        "word": " guide",
+        "probability": 0.998680055141449
+      },
+      {
+        "start": 156.9,
+        "end": 157.1,
+        "word": " the",
+        "probability": 0.9990561604499817
+      },
+      {
+        "start": 157.1,
+        "end": 157.46,
+        "word": " response.",
+        "probability": 0.9978499412536621
+      },
+      {
+        "start": 158.0,
+        "end": 158.22,
+        "word": " But",
+        "probability": 0.9946849346160889
+      },
+      {
+        "start": 158.22,
+        "end": 158.42,
+        "word": " what",
+        "probability": 0.9937117099761963
+      },
+      {
+        "start": 158.42,
+        "end": 158.84,
+        "word": " happens",
+        "probability": 0.9997212290763855
+      }
+    ]
+  },
+  {
+    "start": 158.84,
+    "end": 163.74,
+    "text": " when the evidence isn't there? It doesn't invent an answer, it asks for clarification,",
+    "words": [
+      {
+        "start": 158.84,
+        "end": 159.16,
+        "word": " when",
+        "probability": 0.2732078731060028
+      },
+      {
+        "start": 159.16,
+        "end": 159.32,
+        "word": " the",
+        "probability": 0.9903500080108643
+      },
+      {
+        "start": 159.32,
+        "end": 159.6,
+        "word": " evidence",
+        "probability": 0.995745837688446
+      },
+      {
+        "start": 159.6,
+        "end": 160.18,
+        "word": " isn't",
+        "probability": 0.9911772310733795
+      },
+      {
+        "start": 160.18,
+        "end": 160.38,
+        "word": " there?",
+        "probability": 0.9982237219810486
+      },
+      {
+        "start": 160.8,
+        "end": 160.9,
+        "word": " It",
+        "probability": 0.9865858554840088
+      },
+      {
+        "start": 160.9,
+        "end": 161.36,
+        "word": " doesn't",
+        "probability": 0.9960241615772247
+      },
+      {
+        "start": 161.36,
+        "end": 161.66,
+        "word": " invent",
+        "probability": 0.9951528310775757
+      },
+      {
+        "start": 161.66,
+        "end": 161.92,
+        "word": " an",
+        "probability": 0.9974608421325684
+      },
+      {
+        "start": 161.92,
+        "end": 162.32,
+        "word": " answer,",
+        "probability": 0.9978471994400024
+      },
+      {
+        "start": 162.74,
+        "end": 162.84,
+        "word": " it",
+        "probability": 0.9861832857131958
+      },
+      {
+        "start": 162.84,
+        "end": 163.12,
+        "word": " asks",
+        "probability": 0.9898725748062134
+      },
+      {
+        "start": 163.12,
+        "end": 163.38,
+        "word": " for",
+        "probability": 0.9988252520561218
+      },
+      {
+        "start": 163.38,
+        "end": 163.74,
+        "word": " clarification,",
+        "probability": 0.9966712594032288
+      }
+    ]
+  },
+  {
+    "start": 164.7,
+    "end": 171.24,
+    "text": " or it escalates. Because in customer support, the safest principle is simple. Escalate rather",
+    "words": [
+      {
+        "start": 164.7,
+        "end": 164.9,
+        "word": " or",
+        "probability": 0.9968293309211731
+      },
+      {
+        "start": 164.9,
+        "end": 165.02,
+        "word": " it",
+        "probability": 0.9956854581832886
+      },
+      {
+        "start": 165.02,
+        "end": 165.68,
+        "word": " escalates.",
+        "probability": 0.9942230582237244
+      },
+      {
+        "start": 166.18,
+        "end": 166.46,
+        "word": " Because",
+        "probability": 0.9612545371055603
+      },
+      {
+        "start": 166.46,
+        "end": 166.72,
+        "word": " in",
+        "probability": 0.9645092487335205
+      },
+      {
+        "start": 166.72,
+        "end": 166.9,
+        "word": " customer",
+        "probability": 0.9602989554405212
+      },
+      {
+        "start": 166.9,
+        "end": 167.56,
+        "word": " support,",
+        "probability": 0.99826979637146
+      },
+      {
+        "start": 167.94,
+        "end": 168.06,
+        "word": " the",
+        "probability": 0.9947368502616882
+      },
+      {
+        "start": 168.06,
+        "end": 168.38,
+        "word": " safest",
+        "probability": 0.9936229586601257
+      },
+      {
+        "start": 168.38,
+        "end": 168.92,
+        "word": " principle",
+        "probability": 0.9465160369873047
+      },
+      {
+        "start": 168.92,
+        "end": 169.34,
+        "word": " is",
+        "probability": 0.9975394010543823
+      },
+      {
+        "start": 169.34,
+        "end": 169.62,
+        "word": " simple.",
+        "probability": 0.9937161803245544
+      },
+      {
+        "start": 170.32,
+        "end": 170.8,
+        "word": " Escalate",
+        "probability": 0.8707787990570068
+      },
+      {
+        "start": 170.8,
+        "end": 171.24,
+        "word": " rather",
+        "probability": 0.655404269695282
+      }
+    ]
+  },
+  {
+    "start": 171.24,
+    "end": 178.16,
+    "text": " than guess. This is also where AI and workflow play different roles. The AI manages the conversation,",
+    "words": [
+      {
+        "start": 171.24,
+        "end": 171.6,
+        "word": " than",
+        "probability": 0.9961255192756653
+      },
+      {
+        "start": 171.6,
+        "end": 171.84,
+        "word": " guess.",
+        "probability": 0.9511001110076904
+      },
+      {
+        "start": 172.6,
+        "end": 173.28,
+        "word": " This",
+        "probability": 0.9882777333259583
+      },
+      {
+        "start": 173.28,
+        "end": 173.42,
+        "word": " is",
+        "probability": 0.9985297918319702
+      },
+      {
+        "start": 173.42,
+        "end": 173.68,
+        "word": " also",
+        "probability": 0.9903836846351624
+      },
+      {
+        "start": 173.68,
+        "end": 173.96,
+        "word": " where",
+        "probability": 0.99869304895401
+      },
+      {
+        "start": 173.96,
+        "end": 174.24,
+        "word": " AI",
+        "probability": 0.9878756403923035
+      },
+      {
+        "start": 174.24,
+        "end": 174.66,
+        "word": " and",
+        "probability": 0.9940133690834045
+      },
+      {
+        "start": 174.66,
+        "end": 174.94,
+        "word": " workflow",
+        "probability": 0.8845136165618896
+      },
+      {
+        "start": 174.94,
+        "end": 175.42,
+        "word": " play",
+        "probability": 0.9953727126121521
+      },
+      {
+        "start": 175.42,
+        "end": 175.74,
+        "word": " different",
+        "probability": 0.9990655779838562
+      },
+      {
+        "start": 175.74,
+        "end": 176.14,
+        "word": " roles.",
+        "probability": 0.99932861328125
+      },
+      {
+        "start": 176.64,
+        "end": 176.7,
+        "word": " The",
+        "probability": 0.9941662549972534
+      },
+      {
+        "start": 176.7,
+        "end": 176.94,
+        "word": " AI",
+        "probability": 0.9929556846618652
+      },
+      {
+        "start": 176.94,
+        "end": 177.46,
+        "word": " manages",
+        "probability": 0.9958796501159668
+      },
+      {
+        "start": 177.46,
+        "end": 177.74,
+        "word": " the",
+        "probability": 0.9989113807678223
+      },
+      {
+        "start": 177.74,
+        "end": 178.16,
+        "word": " conversation,",
+        "probability": 0.9979273080825806
+      }
+    ]
+  },
+  {
+    "start": 178.76,
+    "end": 188.82,
+    "text": " it understands, it asks, it explains, and it interprets the customer's response. But the",
+    "words": [
+      {
+        "start": 178.76,
+        "end": 178.9,
+        "word": " it",
+        "probability": 0.9919530749320984
+      },
+      {
+        "start": 178.9,
+        "end": 179.32,
+        "word": " understands,",
+        "probability": 0.9931530952453613
+      },
+      {
+        "start": 179.94,
+        "end": 180.14,
+        "word": " it",
+        "probability": 0.996351957321167
+      },
+      {
+        "start": 180.14,
+        "end": 180.44,
+        "word": " asks,",
+        "probability": 0.9937415719032288
+      },
+      {
+        "start": 180.86,
+        "end": 181.04,
+        "word": " it",
+        "probability": 0.9958000779151917
+      },
+      {
+        "start": 181.04,
+        "end": 181.48,
+        "word": " explains,",
+        "probability": 0.99774169921875
+      },
+      {
+        "start": 182.04,
+        "end": 182.18,
+        "word": " and",
+        "probability": 0.9970487952232361
+      },
+      {
+        "start": 182.18,
+        "end": 182.32,
+        "word": " it",
+        "probability": 0.9958173632621765
+      },
+      {
+        "start": 182.32,
+        "end": 182.96,
+        "word": " interprets",
+        "probability": 0.9977028071880341
+      },
+      {
+        "start": 182.96,
+        "end": 183.06,
+        "word": " the",
+        "probability": 0.9992040991783142
+      },
+      {
+        "start": 183.06,
+        "end": 183.64,
+        "word": " customer's",
+        "probability": 0.9697025716304779
+      },
+      {
+        "start": 183.64,
+        "end": 184.02,
+        "word": " response.",
+        "probability": 0.9986729621887207
+      },
+      {
+        "start": 188.1,
+        "end": 188.78,
+        "word": " But",
+        "probability": 0.9962598085403442
+      },
+      {
+        "start": 188.78,
+        "end": 188.82,
+        "word": " the",
+        "probability": 0.9911782145500183
+      }
+    ]
+  },
+  {
+    "start": 188.82,
+    "end": 194.94,
+    "text": " workflows determine the next step, the permitted action, the expected outcome, and when level one",
+    "words": [
+      {
+        "start": 188.82,
+        "end": 189.42,
+        "word": " workflows",
+        "probability": 0.4925919963279739
+      },
+      {
+        "start": 189.42,
+        "end": 189.84,
+        "word": " determine",
+        "probability": 0.9463768005371094
+      },
+      {
+        "start": 189.84,
+        "end": 190.2,
+        "word": " the",
+        "probability": 0.9961128234863281
+      },
+      {
+        "start": 190.2,
+        "end": 190.4,
+        "word": " next",
+        "probability": 0.996542751789093
+      },
+      {
+        "start": 190.4,
+        "end": 190.72,
+        "word": " step,",
+        "probability": 0.9958057403564453
+      },
+      {
+        "start": 191.06,
+        "end": 191.12,
+        "word": " the",
+        "probability": 0.994921863079071
+      },
+      {
+        "start": 191.12,
+        "end": 191.46,
+        "word": " permitted",
+        "probability": 0.9860650300979614
+      },
+      {
+        "start": 191.46,
+        "end": 191.76,
+        "word": " action,",
+        "probability": 0.9956530332565308
+      },
+      {
+        "start": 192.3,
+        "end": 192.4,
+        "word": " the",
+        "probability": 0.9967575669288635
+      },
+      {
+        "start": 192.4,
+        "end": 192.76,
+        "word": " expected",
+        "probability": 0.9942249655723572
+      },
+      {
+        "start": 192.76,
+        "end": 193.16,
+        "word": " outcome,",
+        "probability": 0.9982630610466003
+      },
+      {
+        "start": 194.0,
+        "end": 194.18,
+        "word": " and",
+        "probability": 0.9976344108581543
+      },
+      {
+        "start": 194.18,
+        "end": 194.34,
+        "word": " when",
+        "probability": 0.9877294898033142
+      },
+      {
+        "start": 194.34,
+        "end": 194.56,
+        "word": " level",
+        "probability": 0.8765395283699036
+      },
+      {
+        "start": 194.56,
+        "end": 194.94,
+        "word": " one",
+        "probability": 0.519402027130127
+      }
+    ]
+  },
+  {
+    "start": 194.94,
+    "end": 202.72,
+    "text": " should stop. AI communicates. Workflow controls. And none of this requires replacing the existing",
+    "words": [
+      {
+        "start": 194.94,
+        "end": 195.3,
+        "word": " should",
+        "probability": 0.9526717066764832
+      },
+      {
+        "start": 195.3,
+        "end": 195.68,
+        "word": " stop.",
+        "probability": 0.9978175163269043
+      },
+      {
+        "start": 196.54,
+        "end": 196.66,
+        "word": " AI",
+        "probability": 0.7140793800354004
+      },
+      {
+        "start": 196.66,
+        "end": 197.18,
+        "word": " communicates.",
+        "probability": 0.9853540658950806
+      },
+      {
+        "start": 198.22,
+        "end": 198.72,
+        "word": " Workflow",
+        "probability": 0.9345152974128723
+      },
+      {
+        "start": 198.72,
+        "end": 199.22,
+        "word": " controls.",
+        "probability": 0.9887675642967224
+      },
+      {
+        "start": 200.4,
+        "end": 200.6,
+        "word": " And",
+        "probability": 0.978588342666626
+      },
+      {
+        "start": 200.6,
+        "end": 200.76,
+        "word": " none",
+        "probability": 0.9838845133781433
+      },
+      {
+        "start": 200.76,
+        "end": 200.9,
+        "word": " of",
+        "probability": 0.9991191029548645
+      },
+      {
+        "start": 200.9,
+        "end": 201.04,
+        "word": " this",
+        "probability": 0.9927611351013184
+      },
+      {
+        "start": 201.04,
+        "end": 201.38,
+        "word": " requires",
+        "probability": 0.9989479184150696
+      },
+      {
+        "start": 201.38,
+        "end": 201.98,
+        "word": " replacing",
+        "probability": 0.9981560111045837
+      },
+      {
+        "start": 201.98,
+        "end": 202.38,
+        "word": " the",
+        "probability": 0.9987602233886719
+      },
+      {
+        "start": 202.38,
+        "end": 202.72,
+        "word": " existing",
+        "probability": 0.9989328980445862
+      }
+    ]
+  },
+  {
+    "start": 202.72,
+    "end": 209.28,
+    "text": " ticketing platform. Through approved APIs, the AI help desk can find a case, create, or update a",
+    "words": [
+      {
+        "start": 202.72,
+        "end": 203.36,
+        "word": " ticketing",
+        "probability": 0.9889914095401764
+      },
+      {
+        "start": 203.36,
+        "end": 203.58,
+        "word": " platform.",
+        "probability": 0.9985452890396118
+      },
+      {
+        "start": 204.28,
+        "end": 204.48,
+        "word": " Through",
+        "probability": 0.9914803504943848
+      },
+      {
+        "start": 204.48,
+        "end": 204.86,
+        "word": " approved",
+        "probability": 0.8833922743797302
+      },
+      {
+        "start": 204.86,
+        "end": 205.76,
+        "word": " APIs,",
+        "probability": 0.6754717230796814
+      },
+      {
+        "start": 205.96,
+        "end": 206.06,
+        "word": " the",
+        "probability": 0.9919507503509521
+      },
+      {
+        "start": 206.06,
+        "end": 206.3,
+        "word": " AI",
+        "probability": 0.9788564443588257
+      },
+      {
+        "start": 206.3,
+        "end": 206.62,
+        "word": " help",
+        "probability": 0.5282564759254456
+      },
+      {
+        "start": 206.62,
+        "end": 206.88,
+        "word": " desk",
+        "probability": 0.7064054608345032
+      },
+      {
+        "start": 206.88,
+        "end": 207.2,
+        "word": " can",
+        "probability": 0.9923563003540039
+      },
+      {
+        "start": 207.2,
+        "end": 207.48,
+        "word": " find",
+        "probability": 0.9982262253761292
+      },
+      {
+        "start": 207.48,
+        "end": 207.6,
+        "word": " a",
+        "probability": 0.9984757304191589
+      },
+      {
+        "start": 207.6,
+        "end": 207.88,
+        "word": " case,",
+        "probability": 0.9972326159477234
+      },
+      {
+        "start": 208.22,
+        "end": 208.38,
+        "word": " create,",
+        "probability": 0.9980258941650391
+      },
+      {
+        "start": 208.68,
+        "end": 208.74,
+        "word": " or",
+        "probability": 0.9985723495483398
+      },
+      {
+        "start": 208.74,
+        "end": 209.06,
+        "word": " update",
+        "probability": 0.9990512728691101
+      },
+      {
+        "start": 209.06,
+        "end": 209.28,
+        "word": " a",
+        "probability": 0.9972537159919739
+      }
+    ]
+  },
+  {
+    "start": 209.28,
+    "end": 214.66,
+    "text": " ticket, record troubleshooting history, update classification, and add escalation information.",
+    "words": [
+      {
+        "start": 209.28,
+        "end": 209.5,
+        "word": " ticket,",
+        "probability": 0.9971717000007629
+      },
+      {
+        "start": 209.94,
+        "end": 210.14,
+        "word": " record",
+        "probability": 0.9905182719230652
+      },
+      {
+        "start": 210.14,
+        "end": 210.94,
+        "word": " troubleshooting",
+        "probability": 0.9885187745094299
+      },
+      {
+        "start": 210.94,
+        "end": 211.26,
+        "word": " history,",
+        "probability": 0.9974195957183838
+      },
+      {
+        "start": 211.78,
+        "end": 212.04,
+        "word": " update",
+        "probability": 0.9977909326553345
+      },
+      {
+        "start": 212.04,
+        "end": 212.5,
+        "word": " classification,",
+        "probability": 0.9982172846794128
+      },
+      {
+        "start": 213.34,
+        "end": 213.44,
+        "word": " and",
+        "probability": 0.9988691210746765
+      },
+      {
+        "start": 213.44,
+        "end": 213.64,
+        "word": " add",
+        "probability": 0.9872271418571472
+      },
+      {
+        "start": 213.64,
+        "end": 214.04,
+        "word": " escalation",
+        "probability": 0.9859845638275146
+      },
+      {
+        "start": 214.04,
+        "end": 214.66,
+        "word": " information.",
+        "probability": 0.9982966780662537
+      }
+    ]
+  },
+  {
+    "start": 215.16,
+    "end": 219.86,
+    "text": " The existing ticketing platform remains exactly where it should be. The system of record,",
+    "words": [
+      {
+        "start": 215.16,
+        "end": 215.46,
+        "word": " The",
+        "probability": 0.3020157814025879
+      },
+      {
+        "start": 215.46,
+        "end": 215.82,
+        "word": " existing",
+        "probability": 0.9706100225448608
+      },
+      {
+        "start": 215.82,
+        "end": 216.42,
+        "word": " ticketing",
+        "probability": 0.981334924697876
+      },
+      {
+        "start": 216.42,
+        "end": 216.58,
+        "word": " platform",
+        "probability": 0.9946611523628235
+      },
+      {
+        "start": 216.58,
+        "end": 217.28,
+        "word": " remains",
+        "probability": 0.9974253177642822
+      },
+      {
+        "start": 217.28,
+        "end": 217.82,
+        "word": " exactly",
+        "probability": 0.9935240745544434
+      },
+      {
+        "start": 217.82,
+        "end": 218.18,
+        "word": " where",
+        "probability": 0.9986196756362915
+      },
+      {
+        "start": 218.18,
+        "end": 218.3,
+        "word": " it",
+        "probability": 0.9981266856193542
+      },
+      {
+        "start": 218.3,
+        "end": 218.48,
+        "word": " should",
+        "probability": 0.9976314306259155
+      },
+      {
+        "start": 218.48,
+        "end": 218.74,
+        "word": " be.",
+        "probability": 0.9989258646965027
+      },
+      {
+        "start": 219.06,
+        "end": 219.14,
+        "word": " The",
+        "probability": 0.9587012529373169
+      },
+      {
+        "start": 219.14,
+        "end": 219.44,
+        "word": " system",
+        "probability": 0.9777006506919861
+      },
+      {
+        "start": 219.44,
+        "end": 219.68,
+        "word": " of",
+        "probability": 0.9965314269065857
+      },
+      {
+        "start": 219.68,
+        "end": 219.86,
+        "word": " record,",
+        "probability": 0.9787862300872803
+      }
+    ]
+  },
+  {
+    "start": 220.32,
+    "end": 226.34,
+    "text": " integrate, not replace. And when level one cannot resolve the issue, escalation becomes",
+    "words": [
+      {
+        "start": 220.32,
+        "end": 220.64,
+        "word": " integrate,",
+        "probability": 0.9308110475540161
+      },
+      {
+        "start": 221.14,
+        "end": 221.38,
+        "word": " not",
+        "probability": 0.9910224676132202
+      },
+      {
+        "start": 221.38,
+        "end": 221.68,
+        "word": " replace.",
+        "probability": 0.9958469271659851
+      },
+      {
+        "start": 222.92,
+        "end": 223.16,
+        "word": " And",
+        "probability": 0.96312016248703
+      },
+      {
+        "start": 223.16,
+        "end": 223.32,
+        "word": " when",
+        "probability": 0.9840478301048279
+      },
+      {
+        "start": 223.32,
+        "end": 223.58,
+        "word": " level",
+        "probability": 0.6503226161003113
+      },
+      {
+        "start": 223.58,
+        "end": 223.92,
+        "word": " one",
+        "probability": 0.7389896512031555
+      },
+      {
+        "start": 223.92,
+        "end": 224.1,
+        "word": " cannot",
+        "probability": 0.9657511115074158
+      },
+      {
+        "start": 224.1,
+        "end": 224.58,
+        "word": " resolve",
+        "probability": 0.9984476566314697
+      },
+      {
+        "start": 224.58,
+        "end": 224.86,
+        "word": " the",
+        "probability": 0.998795747756958
+      },
+      {
+        "start": 224.86,
+        "end": 225.18,
+        "word": " issue,",
+        "probability": 0.9987159967422485
+      },
+      {
+        "start": 225.52,
+        "end": 225.86,
+        "word": " escalation",
+        "probability": 0.8989378213882446
+      },
+      {
+        "start": 225.86,
+        "end": 226.34,
+        "word": " becomes",
+        "probability": 0.995288610458374
+      }
+    ]
+  },
+  {
+    "start": 226.34,
+    "end": 232.46,
+    "text": " much more useful. Instead of handing level two a ticket with limited context, the AI provides",
+    "words": [
+      {
+        "start": 226.34,
+        "end": 226.94,
+        "word": " much",
+        "probability": 0.9957024455070496
+      },
+      {
+        "start": 226.94,
+        "end": 227.2,
+        "word": " more",
+        "probability": 0.9995602965354919
+      },
+      {
+        "start": 227.2,
+        "end": 227.58,
+        "word": " useful.",
+        "probability": 0.997816801071167
+      },
+      {
+        "start": 228.02,
+        "end": 228.28,
+        "word": " Instead",
+        "probability": 0.9934436082839966
+      },
+      {
+        "start": 228.28,
+        "end": 228.54,
+        "word": " of",
+        "probability": 0.9994989633560181
+      },
+      {
+        "start": 228.54,
+        "end": 228.76,
+        "word": " handing",
+        "probability": 0.9236166477203369
+      },
+      {
+        "start": 228.76,
+        "end": 229.08,
+        "word": " level",
+        "probability": 0.9304543733596802
+      },
+      {
+        "start": 229.08,
+        "end": 229.44,
+        "word": " two",
+        "probability": 0.9675093293190002
+      },
+      {
+        "start": 229.44,
+        "end": 229.58,
+        "word": " a",
+        "probability": 0.990826427936554
+      },
+      {
+        "start": 229.58,
+        "end": 229.84,
+        "word": " ticket",
+        "probability": 0.9960862398147583
+      },
+      {
+        "start": 229.84,
+        "end": 230.18,
+        "word": " with",
+        "probability": 0.9867462515830994
+      },
+      {
+        "start": 230.18,
+        "end": 230.5,
+        "word": " limited",
+        "probability": 0.9910324215888977
+      },
+      {
+        "start": 230.5,
+        "end": 230.92,
+        "word": " context,",
+        "probability": 0.9937148690223694
+      },
+      {
+        "start": 231.62,
+        "end": 231.74,
+        "word": " the",
+        "probability": 0.9833469986915588
+      },
+      {
+        "start": 231.74,
+        "end": 231.94,
+        "word": " AI",
+        "probability": 0.9650403261184692
+      },
+      {
+        "start": 231.94,
+        "end": 232.46,
+        "word": " provides",
+        "probability": 0.9963513612747192
+      }
+    ]
+  },
+  {
+    "start": 232.46,
+    "end": 237.74,
+    "text": " a structured handover. Who is the customer? Which product is affected? What is the issue?",
+    "words": [
+      {
+        "start": 232.46,
+        "end": 232.78,
+        "word": " a",
+        "probability": 0.9966451525688171
+      },
+      {
+        "start": 232.78,
+        "end": 233.06,
+        "word": " structured",
+        "probability": 0.9954121708869934
+      },
+      {
+        "start": 233.06,
+        "end": 233.78,
+        "word": " handover.",
+        "probability": 0.9589163959026337
+      },
+      {
+        "start": 234.26,
+        "end": 234.36,
+        "word": " Who",
+        "probability": 0.48912903666496277
+      },
+      {
+        "start": 234.36,
+        "end": 234.5,
+        "word": " is",
+        "probability": 0.9971199035644531
+      },
+      {
+        "start": 234.5,
+        "end": 234.7,
+        "word": " the",
+        "probability": 0.997837483882904
+      },
+      {
+        "start": 234.7,
+        "end": 235.02,
+        "word": " customer?",
+        "probability": 0.9968932867050171
+      },
+      {
+        "start": 235.52,
+        "end": 235.56,
+        "word": " Which",
+        "probability": 0.9722726345062256
+      },
+      {
+        "start": 235.56,
+        "end": 235.94,
+        "word": " product",
+        "probability": 0.9985998272895813
+      },
+      {
+        "start": 235.94,
+        "end": 236.24,
+        "word": " is",
+        "probability": 0.9985787868499756
+      },
+      {
+        "start": 236.24,
+        "end": 236.52,
+        "word": " affected?",
+        "probability": 0.9618411064147949
+      },
+      {
+        "start": 237.14,
+        "end": 237.22,
+        "word": " What",
+        "probability": 0.996460497379303
+      },
+      {
+        "start": 237.22,
+        "end": 237.34,
+        "word": " is",
+        "probability": 0.9965490102767944
+      },
+      {
+        "start": 237.34,
+        "end": 237.52,
+        "word": " the",
+        "probability": 0.9992320537567139
+      },
+      {
+        "start": 237.52,
+        "end": 237.74,
+        "word": " issue?",
+        "probability": 0.9986118078231812
+      }
+    ]
+  },
+  {
+    "start": 238.32,
+    "end": 243.68,
+    "text": " What diagnostics were collected? What has already been tried? And what happened at each step?",
+    "words": [
+      {
+        "start": 238.32,
+        "end": 238.46,
+        "word": " What",
+        "probability": 0.9946728348731995
+      },
+      {
+        "start": 238.46,
+        "end": 239.08,
+        "word": " diagnostics",
+        "probability": 0.9967199265956879
+      },
+      {
+        "start": 239.08,
+        "end": 239.38,
+        "word": " were",
+        "probability": 0.9862192273139954
+      },
+      {
+        "start": 239.38,
+        "end": 239.66,
+        "word": " collected?",
+        "probability": 0.9951919317245483
+      },
+      {
+        "start": 240.28,
+        "end": 240.44,
+        "word": " What",
+        "probability": 0.9954574108123779
+      },
+      {
+        "start": 240.44,
+        "end": 240.62,
+        "word": " has",
+        "probability": 0.9957350492477417
+      },
+      {
+        "start": 240.62,
+        "end": 240.9,
+        "word": " already",
+        "probability": 0.9984851479530334
+      },
+      {
+        "start": 240.9,
+        "end": 241.26,
+        "word": " been",
+        "probability": 0.9994460940361023
+      },
+      {
+        "start": 241.26,
+        "end": 241.54,
+        "word": " tried?",
+        "probability": 0.9967362284660339
+      },
+      {
+        "start": 242.24,
+        "end": 242.32,
+        "word": " And",
+        "probability": 0.9747894406318665
+      },
+      {
+        "start": 242.32,
+        "end": 242.48,
+        "word": " what",
+        "probability": 0.9970619082450867
+      },
+      {
+        "start": 242.48,
+        "end": 242.88,
+        "word": " happened",
+        "probability": 0.9949086308479309
+      },
+      {
+        "start": 242.88,
+        "end": 243.1,
+        "word": " at",
+        "probability": 0.9985036849975586
+      },
+      {
+        "start": 243.1,
+        "end": 243.36,
+        "word": " each",
+        "probability": 0.9996163845062256
+      },
+      {
+        "start": 243.36,
+        "end": 243.68,
+        "word": " step?",
+        "probability": 0.9992997646331787
+      }
+    ]
+  },
+  {
+    "start": 243.68,
+    "end": 248.64,
+    "text": " So level two doesn't have to start again. They continue from where level one stopped.",
+    "words": [
+      {
+        "start": 243.68,
+        "end": 244.24,
+        "word": " So",
+        "probability": 0.32289862632751465
+      },
+      {
+        "start": 244.24,
+        "end": 244.44,
+        "word": " level",
+        "probability": 0.48792991042137146
+      },
+      {
+        "start": 244.44,
+        "end": 244.76,
+        "word": " two",
+        "probability": 0.5484122633934021
+      },
+      {
+        "start": 244.76,
+        "end": 245.2,
+        "word": " doesn't",
+        "probability": 0.9950105845928192
+      },
+      {
+        "start": 245.2,
+        "end": 245.38,
+        "word": " have",
+        "probability": 0.9978809952735901
+      },
+      {
+        "start": 245.38,
+        "end": 245.52,
+        "word": " to",
+        "probability": 0.9994317889213562
+      },
+      {
+        "start": 245.52,
+        "end": 245.74,
+        "word": " start",
+        "probability": 0.9989302754402161
+      },
+      {
+        "start": 245.74,
+        "end": 246.06,
+        "word": " again.",
+        "probability": 0.99671870470047
+      },
+      {
+        "start": 246.66,
+        "end": 246.74,
+        "word": " They",
+        "probability": 0.9679599404335022
+      },
+      {
+        "start": 246.74,
+        "end": 247.14,
+        "word": " continue",
+        "probability": 0.9915657043457031
+      },
+      {
+        "start": 247.14,
+        "end": 247.54,
+        "word": " from",
+        "probability": 0.9957465529441833
+      },
+      {
+        "start": 247.54,
+        "end": 247.76,
+        "word": " where",
+        "probability": 0.994288444519043
+      },
+      {
+        "start": 247.76,
+        "end": 248.02,
+        "word": " level",
+        "probability": 0.9473150372505188
+      },
+      {
+        "start": 248.02,
+        "end": 248.32,
+        "word": " one",
+        "probability": 0.936946451663971
+      },
+      {
+        "start": 248.32,
+        "end": 248.64,
+        "word": " stopped.",
+        "probability": 0.9772157669067383
+      }
+    ]
+  },
+  {
+    "start": 249.82,
+    "end": 255.84,
+    "text": " All of this operates within clearly defined boundaries. Approved knowledge. Access control.",
+    "words": [
+      {
+        "start": 249.82,
+        "end": 249.96,
+        "word": " All",
+        "probability": 0.9751564860343933
+      },
+      {
+        "start": 249.96,
+        "end": 250.12,
+        "word": " of",
+        "probability": 0.9966256618499756
+      },
+      {
+        "start": 250.12,
+        "end": 250.3,
+        "word": " this",
+        "probability": 0.9966644644737244
+      },
+      {
+        "start": 250.3,
+        "end": 250.82,
+        "word": " operates",
+        "probability": 0.9975568056106567
+      },
+      {
+        "start": 250.82,
+        "end": 251.24,
+        "word": " within",
+        "probability": 0.9864934086799622
+      },
+      {
+        "start": 251.24,
+        "end": 251.64,
+        "word": " clearly",
+        "probability": 0.9934672713279724
+      },
+      {
+        "start": 251.64,
+        "end": 251.98,
+        "word": " defined",
+        "probability": 0.9810343384742737
+      },
+      {
+        "start": 251.98,
+        "end": 252.72,
+        "word": " boundaries.",
+        "probability": 0.9951363205909729
+      },
+      {
+        "start": 253.44,
+        "end": 254.04,
+        "word": " Approved",
+        "probability": 0.7752407193183899
+      },
+      {
+        "start": 254.04,
+        "end": 254.34,
+        "word": " knowledge.",
+        "probability": 0.8296233415603638
+      },
+      {
+        "start": 255.04,
+        "end": 255.48,
+        "word": " Access",
+        "probability": 0.9426776170730591
+      },
+      {
+        "start": 255.48,
+        "end": 255.84,
+        "word": " control.",
+        "probability": 0.9093046188354492
+      }
+    ]
+  },
+  {
+    "start": 256.76,
+    "end": 264.7,
+    "text": " Least privilege. Auditability. Data protection. Human oversight. And safe failure. The AI can",
+    "words": [
+      {
+        "start": 256.76,
+        "end": 256.94,
+        "word": " Least",
+        "probability": 0.8124234676361084
+      },
+      {
+        "start": 256.94,
+        "end": 257.24,
+        "word": " privilege.",
+        "probability": 0.9805381894111633
+      },
+      {
+        "start": 258.18,
+        "end": 258.54,
+        "word": " Auditability.",
+        "probability": 0.8128589987754822
+      },
+      {
+        "start": 259.48,
+        "end": 259.54,
+        "word": " Data",
+        "probability": 0.9842734336853027
+      },
+      {
+        "start": 259.54,
+        "end": 259.86,
+        "word": " protection.",
+        "probability": 0.9897739291191101
+      },
+      {
+        "start": 261.1,
+        "end": 261.12,
+        "word": " Human",
+        "probability": 0.9731101989746094
+      },
+      {
+        "start": 261.12,
+        "end": 261.6,
+        "word": " oversight.",
+        "probability": 0.9887551069259644
+      },
+      {
+        "start": 262.54,
+        "end": 262.54,
+        "word": " And",
+        "probability": 0.959821343421936
+      },
+      {
+        "start": 262.54,
+        "end": 262.78,
+        "word": " safe",
+        "probability": 0.961207389831543
+      },
+      {
+        "start": 262.78,
+        "end": 263.22,
+        "word": " failure.",
+        "probability": 0.9955464601516724
+      },
+      {
+        "start": 264.12,
+        "end": 264.14,
+        "word": " The",
+        "probability": 0.991766631603241
+      },
+      {
+        "start": 264.14,
+        "end": 264.36,
+        "word": " AI",
+        "probability": 0.9508845210075378
+      },
+      {
+        "start": 264.36,
+        "end": 264.7,
+        "word": " can",
+        "probability": 0.996185839176178
+      }
+    ]
+  },
+  {
+    "start": 264.7,
+    "end": 271.0,
+    "text": " perform approved level one actions. But it cannot invent technical procedures, bypass access",
+    "words": [
+      {
+        "start": 264.7,
+        "end": 265.1,
+        "word": " perform",
+        "probability": 0.9981123208999634
+      },
+      {
+        "start": 265.1,
+        "end": 265.52,
+        "word": " approved",
+        "probability": 0.9547340273857117
+      },
+      {
+        "start": 265.52,
+        "end": 266.26,
+        "word": " level",
+        "probability": 0.7362040877342224
+      },
+      {
+        "start": 266.26,
+        "end": 266.6,
+        "word": " one",
+        "probability": 0.9569090008735657
+      },
+      {
+        "start": 266.6,
+        "end": 266.96,
+        "word": " actions.",
+        "probability": 0.9744335412979126
+      },
+      {
+        "start": 267.7,
+        "end": 267.9,
+        "word": " But",
+        "probability": 0.9886705875396729
+      },
+      {
+        "start": 267.9,
+        "end": 268.02,
+        "word": " it",
+        "probability": 0.9860950708389282
+      },
+      {
+        "start": 268.02,
+        "end": 268.2,
+        "word": " cannot",
+        "probability": 0.9736692905426025
+      },
+      {
+        "start": 268.2,
+        "end": 268.66,
+        "word": " invent",
+        "probability": 0.9947295784950256
+      },
+      {
+        "start": 268.66,
+        "end": 269.18,
+        "word": " technical",
+        "probability": 0.994739830493927
+      },
+      {
+        "start": 269.18,
+        "end": 269.78,
+        "word": " procedures,",
+        "probability": 0.9947834610939026
+      },
+      {
+        "start": 270.16,
+        "end": 270.36,
+        "word": " bypass",
+        "probability": 0.9741629958152771
+      },
+      {
+        "start": 270.36,
+        "end": 271.0,
+        "word": " access",
+        "probability": 0.9694268107414246
+      }
+    ]
+  },
+  {
+    "start": 271.0,
+    "end": 275.88,
+    "text": " controls, publish unvalidated knowledge, or operate outside its authorized boundaries.",
+    "words": [
+      {
+        "start": 271.0,
+        "end": 271.52,
+        "word": " controls,",
+        "probability": 0.0021508403588086367
+      },
+      {
+        "start": 271.84,
+        "end": 272.22,
+        "word": " publish",
+        "probability": 0.9838395118713379
+      },
+      {
+        "start": 272.22,
+        "end": 273.08,
+        "word": " unvalidated",
+        "probability": 0.9241397579511007
+      },
+      {
+        "start": 273.08,
+        "end": 273.28,
+        "word": " knowledge,",
+        "probability": 0.9958823919296265
+      },
+      {
+        "start": 273.74,
+        "end": 273.86,
+        "word": " or",
+        "probability": 0.9972739815711975
+      },
+      {
+        "start": 273.86,
+        "end": 274.24,
+        "word": " operate",
+        "probability": 0.9987351298332214
+      },
+      {
+        "start": 274.24,
+        "end": 274.68,
+        "word": " outside",
+        "probability": 0.9990849494934082
+      },
+      {
+        "start": 274.68,
+        "end": 275.08,
+        "word": " its",
+        "probability": 0.9598245024681091
+      },
+      {
+        "start": 275.08,
+        "end": 275.38,
+        "word": " authorized",
+        "probability": 0.9680777788162231
+      },
+      {
+        "start": 275.38,
+        "end": 275.88,
+        "word": " boundaries.",
+        "probability": 0.9953727126121521
+      }
+    ]
+  },
+  {
+    "start": 276.6,
+    "end": 282.3,
+    "text": " This is AI governed by design. The MVP is designed as a focused 10-week",
+    "words": [
+      {
+        "start": 276.6,
+        "end": 276.76,
+        "word": " This",
+        "probability": 0.968762993812561
+      },
+      {
+        "start": 276.76,
+        "end": 276.92,
+        "word": " is",
+        "probability": 0.996190071105957
+      },
+      {
+        "start": 276.92,
+        "end": 277.22,
+        "word": " AI",
+        "probability": 0.9353095293045044
+      },
+      {
+        "start": 277.22,
+        "end": 277.68,
+        "word": " governed",
+        "probability": 0.9722806215286255
+      },
+      {
+        "start": 277.68,
+        "end": 278.1,
+        "word": " by",
+        "probability": 0.9995046854019165
+      },
+      {
+        "start": 278.1,
+        "end": 278.36,
+        "word": " design.",
+        "probability": 0.9409176111221313
+      },
+      {
+        "start": 279.64,
+        "end": 279.78,
+        "word": " The",
+        "probability": 0.9852865934371948
+      },
+      {
+        "start": 279.78,
+        "end": 280.1,
+        "word": " MVP",
+        "probability": 0.9491504430770874
+      },
+      {
+        "start": 280.1,
+        "end": 280.6,
+        "word": " is",
+        "probability": 0.9979373216629028
+      },
+      {
+        "start": 280.6,
+        "end": 280.94,
+        "word": " designed",
+        "probability": 0.9968979358673096
+      },
+      {
+        "start": 280.94,
+        "end": 281.2,
+        "word": " as",
+        "probability": 0.9977313876152039
+      },
+      {
+        "start": 281.2,
+        "end": 281.32,
+        "word": " a",
+        "probability": 0.9936859011650085
+      },
+      {
+        "start": 281.32,
+        "end": 281.62,
+        "word": " focused",
+        "probability": 0.48953738808631897
+      },
+      {
+        "start": 281.62,
+        "end": 282.06,
+        "word": " 10",
+        "probability": 0.6748826503753662
+      },
+      {
+        "start": 282.06,
+        "end": 282.3,
+        "word": "-week",
+        "probability": 0.9160218834877014
+      }
+    ]
+  },
+  {
+    "start": 282.3,
+    "end": 287.56,
+    "text": " implementation journey, starting with discovery and solution design, then knowledge engineering",
+    "words": [
+      {
+        "start": 282.3,
+        "end": 282.74,
+        "word": " implementation",
+        "probability": 0.9854274392127991
+      },
+      {
+        "start": 282.74,
+        "end": 283.6,
+        "word": " journey,",
+        "probability": 0.9977071285247803
+      },
+      {
+        "start": 283.86,
+        "end": 284.22,
+        "word": " starting",
+        "probability": 0.9970899820327759
+      },
+      {
+        "start": 284.22,
+        "end": 284.46,
+        "word": " with",
+        "probability": 0.9996011853218079
+      },
+      {
+        "start": 284.46,
+        "end": 284.9,
+        "word": " discovery",
+        "probability": 0.9167684316635132
+      },
+      {
+        "start": 284.9,
+        "end": 285.3,
+        "word": " and",
+        "probability": 0.9936999082565308
+      },
+      {
+        "start": 285.3,
+        "end": 285.6,
+        "word": " solution",
+        "probability": 0.9971441626548767
+      },
+      {
+        "start": 285.6,
+        "end": 286.06,
+        "word": " design,",
+        "probability": 0.9976995587348938
+      },
+      {
+        "start": 286.62,
+        "end": 286.76,
+        "word": " then",
+        "probability": 0.9954929351806641
+      },
+      {
+        "start": 286.76,
+        "end": 287.12,
+        "word": " knowledge",
+        "probability": 0.9531603455543518
+      },
+      {
+        "start": 287.12,
+        "end": 287.56,
+        "word": " engineering",
+        "probability": 0.9982357025146484
+      }
+    ]
+  },
+  {
+    "start": 287.56,
+    "end": 293.44,
+    "text": " and validation, AI development and ticketing integration, followed by end-to-end testing,",
+    "words": [
+      {
+        "start": 287.56,
+        "end": 288.02,
+        "word": " and",
+        "probability": 0.9585064649581909
+      },
+      {
+        "start": 288.02,
+        "end": 288.44,
+        "word": " validation,",
+        "probability": 0.9984488487243652
+      },
+      {
+        "start": 289.16,
+        "end": 289.48,
+        "word": " AI",
+        "probability": 0.9916350841522217
+      },
+      {
+        "start": 289.48,
+        "end": 289.92,
+        "word": " development",
+        "probability": 0.9965071082115173
+      },
+      {
+        "start": 289.92,
+        "end": 290.44,
+        "word": " and",
+        "probability": 0.9046224355697632
+      },
+      {
+        "start": 290.44,
+        "end": 290.88,
+        "word": " ticketing",
+        "probability": 0.9903222024440765
+      },
+      {
+        "start": 290.88,
+        "end": 291.32,
+        "word": " integration,",
+        "probability": 0.9986648559570312
+      },
+      {
+        "start": 291.88,
+        "end": 292.24,
+        "word": " followed",
+        "probability": 0.9963640570640564
+      },
+      {
+        "start": 292.24,
+        "end": 292.52,
+        "word": " by",
+        "probability": 0.9983839988708496
+      },
+      {
+        "start": 292.52,
+        "end": 292.78,
+        "word": " end",
+        "probability": 0.9908859729766846
+      },
+      {
+        "start": 292.78,
+        "end": 292.92,
+        "word": "-to",
+        "probability": 0.9749341011047363
+      },
+      {
+        "start": 292.92,
+        "end": 293.06,
+        "word": "-end",
+        "probability": 0.9981809556484222
+      },
+      {
+        "start": 293.06,
+        "end": 293.44,
+        "word": " testing,",
+        "probability": 0.9978531002998352
+      }
+    ]
+  },
+  {
+    "start": 293.82,
+    "end": 299.56,
+    "text": " user acceptance testing, optimization and handover. Before deployment, the solution is assessed",
+    "words": [
+      {
+        "start": 293.82,
+        "end": 294.02,
+        "word": " user",
+        "probability": 0.9959402084350586
+      },
+      {
+        "start": 294.02,
+        "end": 294.42,
+        "word": " acceptance",
+        "probability": 0.9928339719772339
+      },
+      {
+        "start": 294.42,
+        "end": 295.06,
+        "word": " testing,",
+        "probability": 0.9966458678245544
+      },
+      {
+        "start": 295.42,
+        "end": 295.7,
+        "word": " optimization",
+        "probability": 0.9839503765106201
+      },
+      {
+        "start": 295.7,
+        "end": 296.48,
+        "word": " and",
+        "probability": 0.5927748084068298
+      },
+      {
+        "start": 296.48,
+        "end": 296.98,
+        "word": " handover.",
+        "probability": 0.9323824346065521
+      },
+      {
+        "start": 297.36,
+        "end": 297.74,
+        "word": " Before",
+        "probability": 0.9973087310791016
+      },
+      {
+        "start": 297.74,
+        "end": 298.3,
+        "word": " deployment,",
+        "probability": 0.9968024492263794
+      },
+      {
+        "start": 298.56,
+        "end": 298.64,
+        "word": " the",
+        "probability": 0.9980423450469971
+      },
+      {
+        "start": 298.64,
+        "end": 298.9,
+        "word": " solution",
+        "probability": 0.9825342297554016
+      },
+      {
+        "start": 298.9,
+        "end": 299.24,
+        "word": " is",
+        "probability": 0.9991855025291443
+      },
+      {
+        "start": 299.24,
+        "end": 299.56,
+        "word": " assessed",
+        "probability": 0.9946139454841614
+      }
+    ]
+  },
+  {
+    "start": 299.56,
+    "end": 304.9,
+    "text": " across three areas. AI quality, control and integration, and business readiness.",
+    "words": [
+      {
+        "start": 299.56,
+        "end": 300.02,
+        "word": " across",
+        "probability": 0.42083337903022766
+      },
+      {
+        "start": 300.02,
+        "end": 300.4,
+        "word": " three",
+        "probability": 0.9333212375640869
+      },
+      {
+        "start": 300.4,
+        "end": 300.92,
+        "word": " areas.",
+        "probability": 0.9960994720458984
+      },
+      {
+        "start": 301.32,
+        "end": 301.5,
+        "word": " AI",
+        "probability": 0.660601794719696
+      },
+      {
+        "start": 301.5,
+        "end": 301.88,
+        "word": " quality,",
+        "probability": 0.8440346717834473
+      },
+      {
+        "start": 302.3,
+        "end": 302.76,
+        "word": " control",
+        "probability": 0.9928992986679077
+      },
+      {
+        "start": 302.76,
+        "end": 303.18,
+        "word": " and",
+        "probability": 0.802068293094635
+      },
+      {
+        "start": 303.18,
+        "end": 303.6,
+        "word": " integration,",
+        "probability": 0.9992141723632812
+      },
+      {
+        "start": 304.08,
+        "end": 304.26,
+        "word": " and",
+        "probability": 0.9980904459953308
+      },
+      {
+        "start": 304.26,
+        "end": 304.54,
+        "word": " business",
+        "probability": 0.9965673685073853
+      },
+      {
+        "start": 304.54,
+        "end": 304.9,
+        "word": " readiness.",
+        "probability": 0.9981239438056946
+      }
+    ]
+  },
+  {
+    "start": 305.5,
+    "end": 311.12,
+    "text": " Only then does it move forward. The result is more than an AI chatbot. It is a governed",
+    "words": [
+      {
+        "start": 305.5,
+        "end": 305.78,
+        "word": " Only",
+        "probability": 0.9902472496032715
+      },
+      {
+        "start": 305.78,
+        "end": 306.04,
+        "word": " then",
+        "probability": 0.9918864369392395
+      },
+      {
+        "start": 306.04,
+        "end": 306.28,
+        "word": " does",
+        "probability": 0.9472900629043579
+      },
+      {
+        "start": 306.28,
+        "end": 306.4,
+        "word": " it",
+        "probability": 0.9977719187736511
+      },
+      {
+        "start": 306.4,
+        "end": 306.52,
+        "word": " move",
+        "probability": 0.9966865181922913
+      },
+      {
+        "start": 306.52,
+        "end": 306.88,
+        "word": " forward.",
+        "probability": 0.9987216591835022
+      },
+      {
+        "start": 308.02,
+        "end": 308.18,
+        "word": " The",
+        "probability": 0.9197647571563721
+      },
+      {
+        "start": 308.18,
+        "end": 308.46,
+        "word": " result",
+        "probability": 0.99432373046875
+      },
+      {
+        "start": 308.46,
+        "end": 308.78,
+        "word": " is",
+        "probability": 0.9965644478797913
+      },
+      {
+        "start": 308.78,
+        "end": 309.0,
+        "word": " more",
+        "probability": 0.9993815422058105
+      },
+      {
+        "start": 309.0,
+        "end": 309.22,
+        "word": " than",
+        "probability": 0.9977195858955383
+      },
+      {
+        "start": 309.22,
+        "end": 309.32,
+        "word": " an",
+        "probability": 0.9864100813865662
+      },
+      {
+        "start": 309.32,
+        "end": 309.58,
+        "word": " AI",
+        "probability": 0.9927565455436707
+      },
+      {
+        "start": 309.58,
+        "end": 310.22,
+        "word": " chatbot.",
+        "probability": 0.9138679802417755
+      },
+      {
+        "start": 310.6,
+        "end": 310.7,
+        "word": " It",
+        "probability": 0.996217668056488
+      },
+      {
+        "start": 310.7,
+        "end": 310.8,
+        "word": " is",
+        "probability": 0.9951607584953308
+      },
+      {
+        "start": 310.8,
+        "end": 310.94,
+        "word": " a",
+        "probability": 0.9978185892105103
+      },
+      {
+        "start": 310.94,
+        "end": 311.12,
+        "word": " governed",
+        "probability": 0.953197717666626
+      }
+    ]
+  },
+  {
+    "start": 311.12,
+    "end": 315.88,
+    "text": " foundation for scalable customer support, reducing repetitive level one effort,",
+    "words": [
+      {
+        "start": 311.12,
+        "end": 311.68,
+        "word": " foundation",
+        "probability": 0.9878016114234924
+      },
+      {
+        "start": 311.68,
+        "end": 312.08,
+        "word": " for",
+        "probability": 0.9980217218399048
+      },
+      {
+        "start": 312.08,
+        "end": 312.42,
+        "word": " scalable",
+        "probability": 0.995807409286499
+      },
+      {
+        "start": 312.42,
+        "end": 313.0,
+        "word": " customer",
+        "probability": 0.9828869700431824
+      },
+      {
+        "start": 313.0,
+        "end": 313.62,
+        "word": " support,",
+        "probability": 0.9989972710609436
+      },
+      {
+        "start": 313.92,
+        "end": 314.28,
+        "word": " reducing",
+        "probability": 0.9961218237876892
+      },
+      {
+        "start": 314.28,
+        "end": 314.82,
+        "word": " repetitive",
+        "probability": 0.9580494165420532
+      },
+      {
+        "start": 314.82,
+        "end": 315.24,
+        "word": " level",
+        "probability": 0.8887928128242493
+      },
+      {
+        "start": 315.24,
+        "end": 315.54,
+        "word": " one",
+        "probability": 0.77224200963974
+      },
+      {
+        "start": 315.54,
+        "end": 315.88,
+        "word": " effort,",
+        "probability": 0.9973969459533691
+      }
+    ]
+  },
+  {
+    "start": 316.3,
+    "end": 321.2,
+    "text": " improving the reuse of trusted knowledge, creating better support records, and giving",
+    "words": [
+      {
+        "start": 316.3,
+        "end": 316.62,
+        "word": " improving",
+        "probability": 0.9980165958404541
+      },
+      {
+        "start": 316.62,
+        "end": 316.94,
+        "word": " the",
+        "probability": 0.9990488886833191
+      },
+      {
+        "start": 316.94,
+        "end": 317.24,
+        "word": " reuse",
+        "probability": 0.8452171087265015
+      },
+      {
+        "start": 317.24,
+        "end": 317.52,
+        "word": " of",
+        "probability": 0.9988768696784973
+      },
+      {
+        "start": 317.52,
+        "end": 317.9,
+        "word": " trusted",
+        "probability": 0.9971542358398438
+      },
+      {
+        "start": 317.9,
+        "end": 318.2,
+        "word": " knowledge,",
+        "probability": 0.9987253546714783
+      },
+      {
+        "start": 318.68,
+        "end": 319.06,
+        "word": " creating",
+        "probability": 0.9986502528190613
+      },
+      {
+        "start": 319.06,
+        "end": 319.44,
+        "word": " better",
+        "probability": 0.9991697072982788
+      },
+      {
+        "start": 319.44,
+        "end": 319.8,
+        "word": " support",
+        "probability": 0.9976772665977478
+      },
+      {
+        "start": 319.8,
+        "end": 320.26,
+        "word": " records,",
+        "probability": 0.9992166757583618
+      },
+      {
+        "start": 320.72,
+        "end": 320.92,
+        "word": " and",
+        "probability": 0.9983349442481995
+      },
+      {
+        "start": 320.92,
+        "end": 321.2,
+        "word": " giving",
+        "probability": 0.9982208609580994
+      }
+    ]
+  },
+  {
+    "start": 321.2,
+    "end": 326.28,
+    "text": " level two a stronger starting point when escalation is required. One connected support",
+    "words": [
+      {
+        "start": 321.2,
+        "end": 321.4,
+        "word": " level",
+        "probability": 0.9251433610916138
+      },
+      {
+        "start": 321.4,
+        "end": 321.82,
+        "word": " two",
+        "probability": 0.9689763188362122
+      },
+      {
+        "start": 321.82,
+        "end": 322.08,
+        "word": " a",
+        "probability": 0.9810501933097839
+      },
+      {
+        "start": 322.08,
+        "end": 322.4,
+        "word": " stronger",
+        "probability": 0.9976791739463806
+      },
+      {
+        "start": 322.4,
+        "end": 322.92,
+        "word": " starting",
+        "probability": 0.9924923777580261
+      },
+      {
+        "start": 322.92,
+        "end": 323.26,
+        "word": " point",
+        "probability": 0.9975221753120422
+      },
+      {
+        "start": 323.26,
+        "end": 323.64,
+        "word": " when",
+        "probability": 0.9671269655227661
+      },
+      {
+        "start": 323.64,
+        "end": 323.96,
+        "word": " escalation",
+        "probability": 0.983386218547821
+      },
+      {
+        "start": 323.96,
+        "end": 324.58,
+        "word": " is",
+        "probability": 0.9991151690483093
+      },
+      {
+        "start": 324.58,
+        "end": 324.86,
+        "word": " required.",
+        "probability": 0.9989264607429504
+      },
+      {
+        "start": 325.42,
+        "end": 325.5,
+        "word": " One",
+        "probability": 0.9934630393981934
+      },
+      {
+        "start": 325.5,
+        "end": 325.84,
+        "word": " connected",
+        "probability": 0.9825277924537659
+      },
+      {
+        "start": 325.84,
+        "end": 326.28,
+        "word": " support",
+        "probability": 0.9945496916770935
+      }
+    ]
+  },
+  {
+    "start": 326.28,
+    "end": 333.04,
+    "text": " journey to understand, retrieve, troubleshoot, record, route, and ultimately resolve or escalate.",
+    "words": [
+      {
+        "start": 326.28,
+        "end": 326.64,
+        "word": " journey",
+        "probability": 0.0012112469412386417
+      },
+      {
+        "start": 326.64,
+        "end": 327.08,
+        "word": " to",
+        "probability": 0.9120385050773621
+      },
+      {
+        "start": 327.08,
+        "end": 327.6,
+        "word": " understand,",
+        "probability": 0.9861755967140198
+      },
+      {
+        "start": 327.96,
+        "end": 328.26,
+        "word": " retrieve,",
+        "probability": 0.9937034249305725
+      },
+      {
+        "start": 328.64,
+        "end": 329.3,
+        "word": " troubleshoot,",
+        "probability": 0.9953440229098002
+      },
+      {
+        "start": 329.32,
+        "end": 329.68,
+        "word": " record,",
+        "probability": 0.9932268261909485
+      },
+      {
+        "start": 330.04,
+        "end": 330.22,
+        "word": " route,",
+        "probability": 0.9386194348335266
+      },
+      {
+        "start": 330.58,
+        "end": 330.68,
+        "word": " and",
+        "probability": 0.9960311055183411
+      },
+      {
+        "start": 330.68,
+        "end": 331.1,
+        "word": " ultimately",
+        "probability": 0.9185636639595032
+      },
+      {
+        "start": 331.1,
+        "end": 331.86,
+        "word": " resolve",
+        "probability": 0.8732969164848328
+      },
+      {
+        "start": 331.86,
+        "end": 332.52,
+        "word": " or",
+        "probability": 0.8702839612960815
+      },
+      {
+        "start": 332.52,
+        "end": 333.04,
+        "word": " escalate.",
+        "probability": 0.994023859500885
+      }
+    ]
+  }
+]

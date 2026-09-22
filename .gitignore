@@ -1,0 +1,4 @@
+.tools/
+.models/
+analysis/page-*.png
+analysis/*.wav
