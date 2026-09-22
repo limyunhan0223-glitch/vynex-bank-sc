@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   build: {
-    outDir: "dist/client",
+    outDir: "dist",
   },
   optimizeDeps: {
     // Pre-bundle the lazy scene's dependencies before serving the first page.
