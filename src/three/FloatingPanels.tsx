@@ -1,0 +1,3 @@
+import { ChartBar, LockKey, TrendUp } from '@phosphor-icons/react';
+export function FloatingPanels() {return <div className="floating-panels" aria-hidden="true"><div className="glass-panel finance"><span>Your Finances<br/>in Your Hands</span><ChartBar size={34} weight="fill"/></div><div className="glass-panel secure"><LockKey size={28} weight="fill"/><span>Secure<br/>Every Step</span><small>Advanced security<br/>for a safer tomorrow.</small></div><div className="glass-panel grow"><TrendUp size={30} weight="bold"/><span>Grow<br/>Your Future</span><small>Smart banking<br/>for bigger goals.</small></div></div>;}
+

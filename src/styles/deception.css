@@ -1,0 +1,179 @@
+/* All overrides are gated by the notification-click progress. */
+.phone-lock-content{position:absolute;inset:0 auto auto 0;width:326px;height:690px;zoom:var(--screen-density,1);opacity:calc(1 - var(--lock-reveal,0))}
+.deception-active .bait-layer{opacity:calc(1 - var(--deception-reveal,0))!important}
+.deception-active .navbar{opacity:calc(.15 * (1 - var(--deception-reveal,0)))!important}
+/* Crossfade a fixed blurred surface; never re-filter the full viewport per frame. */
+.scene03-architecture{filter:blur(5px);opacity:var(--deception-progress,0);visibility:hidden}
+.deception-active .scene03-architecture{visibility:visible}
+.phone-lock-content{transform-origin:center 40%}
+.phone-screen{will-change:transform}
+.phone-lock-content,.deception-screen{will-change:opacity,transform}
+.phone-screen[data-transitioning=true] .bank-notification,.phone-screen[data-transitioning=true] .deception-login{backdrop-filter:none;-webkit-backdrop-filter:none}
+.deception-active .scene03-architecture{will-change:opacity}
+.deception-editorial{position:absolute;inset:0;z-index:3;pointer-events:none;opacity:var(--deception-reveal,0);color:#c5cfdd;font:400 14px/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+.deception-editorial p{position:absolute;margin:0}.deception-editorial small{display:block;color:#8d9bad;font-size:12px;line-height:1.55}.deception-editorial i{display:block;width:18px;height:1px;background:#bdccdd66;margin:25px 0}
+.deception-editorial-top{left:4.1%;top:27%;font-size:10px;letter-spacing:3px}.deception-editorial-brand{left:4.1%;bottom:7%}.deception-editorial-brand small{margin-top:14px}.deception-editorial-right{right:4%;top:27%}.deception-editorial-scroll{right:4%;bottom:7%;display:flex;align-items:center;gap:10px;font-size:10px;color:#8d9bad}.deception-editorial-scroll svg{width:23px;height:30px}
+.deception-screen{position:absolute;inset:0 auto auto 0;width:326px;height:690px;zoom:var(--screen-density,1);z-index:2;opacity:var(--deception-ui,0);transform:translateY(calc((1 - var(--deception-ui,0)) * 2px));background:#0a111e;color:#edf1f7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;pointer-events:auto;overflow:hidden;-webkit-font-smoothing:antialiased}
+.deception-screen[aria-hidden=true]{pointer-events:none}
+.deception-screen[aria-hidden=false]{transform:none}
+.deception-status{position:absolute;left:27px;right:23px;top:12px;display:flex;justify-content:space-between;align-items:center;font-size:9px;height:12px}.deception-status strong{font-weight:600}.deception-status>span{display:flex;align-items:center;gap:2px}.deception-status svg{width:12px;height:12px}.deception-status svg:last-child{width:16px}
+.deception-island{position:absolute;top:9px;left:50%;translate:-50% 0;width:79px;height:17px;border-radius:20px;background:#010204}
+.deception-browser{position:absolute;top:31px;left:9px;right:10px;display:flex;align-items:center;gap:7px;height:23px;color:#d7dce6}.deception-browser>svg{width:13px;height:13px;flex:none}.deception-browser>span{display:flex;align-items:center;gap:6px;flex:1;background:#c1cce00d;border:1px solid #becde50a;border-radius:20px;padding:6px 9px;font-size:8px;white-space:nowrap}.deception-browser span svg{width:9px;height:9px;flex:none}.deception-browser span svg:last-child{margin-left:auto}
+.deception-site{position:absolute;inset:60px 0 0;background:linear-gradient(180deg,#07101ae8,#09162669 65%,#06101c99),url('/assets/atrium.webp') 65% center/auto 100%;overflow:hidden}
+.deception-header{height:35px;padding:0 16px;display:flex;align-items:center;justify-content:space-between;position:relative;z-index:2}.deception-header>div{display:flex;align-items:center;gap:5px;white-space:nowrap;font-size:10px;letter-spacing:-.2px}.deception-header img{width:20px;height:18px;object-fit:contain;mix-blend-mode:screen}.deception-header nav{display:flex;gap:14px}.deception-header nav button{font-size:5.7px;padding:6px 0;color:#a9b6cb}
+.deception-shield{position:absolute;width:132px;height:176px;object-fit:contain;right:-32px;top:66px;opacity:.95;mask-image:linear-gradient(90deg,transparent,#000 12%,#000 95%),linear-gradient(180deg,transparent,#000 12%,#000 88%,transparent);mask-composite:intersect}
+.deception-login{position:relative;z-index:1;margin:3px 0 0 16px;width:218px;padding:18px 19px 11px;border:1px solid #b8cce135;border-bottom-color:#aac0da26;border-radius:12px;background:linear-gradient(125deg,#6383b010,transparent 65%),#0b1525d9;box-shadow:inset 0 1px 1px #d9e6f329,0 8px 18px #0003;backdrop-filter:blur(3px);text-align:center}
+.deception-login:before{content:'';position:absolute;top:0;left:8%;width:44%;height:1px;background:linear-gradient(90deg,transparent,#edf5ff55,transparent)}
+.deception-eyebrow{font-size:4.7px;letter-spacing:1.8px;color:#a7b4c9;margin:0 0 6px}.deception-login h2{font-size:16px;font-weight:450;line-height:1.2;letter-spacing:-.35px;margin:0 0 5px}.deception-intro{font-size:7.4px;line-height:1.5;color:#d1d9e6;margin:0 0 12px}
+.deception-login fieldset{padding:0;margin:0;border:0;min-width:0}.deception-field{display:flex;align-items:center;gap:6px;border:1px solid #b2c5df25;border-radius:6px;background:#8599b50b;box-shadow:inset 0 1px 2px #030a1526;min-height:25px;padding:5px 8px;margin:0 0 8px;transition:border-color .35s,background .35s;text-align:left}.deception-field>svg{width:11px;height:11px;flex:none;color:#b7c4d8}.deception-field:focus-within{border-color:#a1bee970;background:#8faaca13}.deception-field input{border:0;outline:none!important;background:none;width:100%;min-width:0;color:#e5ebf4;font-weight:400;line-height:1.3;padding:0;font-family:inherit;font-size:7.5px}.deception-field input::placeholder{color:#a6b3c7}.deception-field button{padding:0;display:grid;place-items:center}.deception-field button svg{width:11px;height:11px;color:#b7c4d8}
+.deception-options{display:flex;align-items:center;justify-content:space-between;margin:2px 0 13px;font-size:6.5px;color:#d2dbe9}.deception-options label{display:flex;align-items:center;gap:4px}.deception-options input{appearance:none;width:9px;height:9px;border:1px solid #adbed3a0;border-radius:2px;background:#071222;margin:0;display:grid;place-items:center}.deception-options input:checked{appearance:auto;accent-color:#819ecb}.deception-options button{padding:2px 0;font-size:inherit}.deception-options button:hover{color:#b0cefb}
+.deception-submit{display:flex;align-items:center;justify-content:center;gap:5px;width:100%;height:28px;border-radius:15px;border:1px solid #accbef35;border-top-color:#cde1fc65;background:radial-gradient(ellipse at 8% 0%,#759dcc42,transparent 64%),#22437170;box-shadow:inset 0 1px 1px #c9e0ff24,inset 0 -3px 6px #050f2338;color:#eef4ff;font-size:8px;transition:transform .4s cubic-bezier(.22,1,.36,1),background-color .4s}.deception-submit svg{width:9px;height:9px;transition:transform .4s cubic-bezier(.22,1,.36,1)}.deception-submit:hover:not(:disabled){transform:scale(1.01);background-color:#31578080}.deception-submit:hover svg{transform:translateX(2px)}.deception-login fieldset:disabled{opacity:.85}.deception-submit:disabled{cursor:default}
+.deception-footer{border-top:1px solid #a2b8d017;margin:11px 0 0;padding-top:9px;font-size:6.5px;color:#a3b2c8}.deception-demo{font-size:4.3px;color:#8795a9;margin:5px 0 0}.deception-help{font-size:6px;line-height:1.4;color:#b1c5e0;margin:6px 0 0}.deception-help:empty{display:none}
+.deception-screen button:focus-visible,.deception-screen input[type=checkbox]:focus-visible{outline:1px solid #b7cce5;outline-offset:2px}.deception-sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:1200px){.deception-editorial{display:none}}
+@media(max-width:767px){
+ .phone-stage-ready .visual-stage{top:0!important;height:100svh!important}
+ .deception-browser>span{font-size:10px}.deception-header{height:45px}.deception-header>div{font-size:15px}.deception-header nav{display:none}.deception-header img{width:24px;height:24px}.deception-site{top:64px}.deception-shield{display:none}
+ .deception-login{margin:6px 12px;width:calc(100% - 24px);padding:24px 20px 18px;border-radius:16px}.deception-eyebrow{font-size:8px;margin-bottom:10px}.deception-login h2{font-size:27px;margin-bottom:8px}.deception-intro{font-size:13px;margin-bottom:23px}.deception-field{height:44px;padding:10px;margin-bottom:14px;gap:8px}.deception-field input{font-size:16px}.deception-field>svg,.deception-field button svg{width:18px;height:18px}.deception-options{font-size:10px;margin:8px 0 20px}.deception-options input{width:14px;height:14px}.deception-submit{height:44px;font-size:15px}.deception-submit svg{width:16px;height:16px}.deception-footer{font-size:11px;margin-top:20px;padding-top:16px}.deception-demo{font-size:8px;margin-top:10px}.deception-help{font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){.deception-screen *{transition:none!important}}
+
+@media(min-width:768px){.phone-stage-ready .visual-stage{inset:0!important}}
+
+/* Scene 03 phone UI only. Scene geometry and transition rules above stay locked. */
+.deception-screen .deception-status{top:11px;align-items:center;color:#e6ebf2}
+.deception-screen .deception-status strong{font-weight:550;letter-spacing:-.2px}
+.deception-screen .deception-status>span{gap:3px;align-items:center}
+.deception-screen .deception-status svg{width:11px;height:11px;display:block}
+.deception-screen .deception-status svg:last-child{width:16px;height:12px}
+.deception-screen .deception-browser{top:31px;left:8px;right:11px;height:23px;gap:9px;z-index:4}
+.deception-screen .deception-address{display:flex;align-items:center;gap:5px;height:23px;min-width:0;flex:1;padding:0 7px;border:.6px solid #adbedf20;border-top-color:#c1cde22b;border-radius:13px;background:#aabbd014;box-shadow:inset 0 1px 2px #00000019;color:#d1d9e5}
+.deception-screen .deception-reader{display:flex;align-items:baseline;letter-spacing:-.5px;font-size:8px;line-height:1;margin-right:4px;flex:none}
+.deception-screen .deception-reader small{font-size:6px}
+.deception-screen .deception-address>svg{width:8px;height:9px;flex:none}
+.deception-screen .deception-url{font-size:7.2px;letter-spacing:-.08px;white-space:nowrap;min-width:0}
+.deception-screen .deception-address button{margin-left:auto;display:grid;place-items:center;padding:1px;flex:none;color:#c6d1e1}
+.deception-screen .deception-address button svg{width:11px;height:11px}
+.deception-screen .deception-browser-actions{display:flex;gap:9px;align-items:center;flex:none}
+.deception-screen .deception-browser-actions button{display:grid;place-items:center;padding:0;width:15px;height:20px;color:#86a5cf;transition:color .4s cubic-bezier(.22,1,.36,1),opacity .4s}
+.deception-screen .deception-browser-actions svg{display:block;width:15px;height:15px}
+.deception-screen .deception-browser-actions button:hover,.deception-screen .deception-address button:hover{color:#c4dcfa}
+.deception-screen .deception-browser-notice{position:absolute;top:28px;right:0;display:block;max-width:180px;padding:8px 10px;font-size:7px;line-height:1.5;white-space:normal;border:.5px solid #91abc42c;border-radius:7px;background:#0c192bef;box-shadow:0 3px 10px #0005;color:#cad7e9}
+.deception-screen .deception-header{padding:0 16px;align-items:center}
+.deception-screen .deception-header>div{gap:6px;font-size:10px;letter-spacing:-.18px}
+.deception-screen .deception-header img{width:21px;height:19px}
+.deception-screen .deception-header nav{gap:15px;align-items:center}
+.deception-screen .deception-header nav button{font-size:5.7px;color:#9facbf;letter-spacing:.02px}
+.deception-screen .deception-login{padding:20px 18px 12px;text-align:left;isolation:isolate;border:.6px solid #adcae328;border-top-color:#b9d5f04d;border-left-color:#aac9e33a;border-bottom-color:#91adc226;border-radius:13px;background:radial-gradient(ellipse at 8% 0%,#5a85b322,transparent 45%),radial-gradient(ellipse at 95% 85%,#496b8c0c,transparent 50%),#091525d4;box-shadow:inset 1px 1px 1px #c4d9ee17,inset -1px -1px 2px #02091c70,0 5px 13px #00000036;backdrop-filter:blur(3px)}
+.deception-screen .deception-login:before{inset:0;width:auto;height:auto;border-radius:inherit;background:radial-gradient(ellipse at 2% 1%,#c5e5ff50,transparent 16%),radial-gradient(ellipse at 94% 0%,#d4e7fd20,transparent 12%),radial-gradient(ellipse at 0% 100%,#adcce926,transparent 10%);transform:translate(var(--glass-x,0px),var(--glass-y,0px));pointer-events:none;z-index:-1}
+.deception-screen .deception-login:after{content:'';position:absolute;inset:2px;border-radius:11px;border-left:.5px solid #7ca5ce0f;border-right:.5px solid #789dbc0a;background:linear-gradient(114deg,transparent 7%,#9dc7f007 8%,transparent 18%,transparent 80%,#9dc7f005 83%,transparent 86%);pointer-events:none;z-index:-1;transform:translate(var(--glass-x,0px),var(--glass-y,0px))}
+.deception-screen .deception-login-heading{padding:0 7px}
+.deception-screen .deception-eyebrow{font-size:4.7px;letter-spacing:1.9px;line-height:1.5;color:#97abc5;margin-bottom:5px}
+.deception-screen .deception-login h2{font-size:22px;line-height:1.08;font-weight:300;letter-spacing:-.7px;color:#e8edf5;margin-bottom:5px;white-space:nowrap}
+.deception-screen .deception-intro{font-size:7.3px;line-height:1.5;color:#bcc9dc;margin-bottom:14px;white-space:nowrap}
+.deception-screen .deception-field{min-height:24px;padding:6px 8px;gap:6px;border:.6px solid #b4cae226;border-top-color:#acc1dc33;border-bottom-color:#bfd5ed14;background:#030b1b4f;box-shadow:inset 0 1px 3px #0000003b,inset 0 -1px 0 #c1d7f007;border-radius:5px;transition:border-color .4s cubic-bezier(.22,1,.36,1),background-color .4s cubic-bezier(.22,1,.36,1)}
+.deception-screen .deception-field:hover{background-color:#17283b50}
+.deception-screen .deception-field:focus-within{border-color:#9cbde966;background:#19304945;box-shadow:inset 0 1px 3px #0000002d,inset 0 -1px 0 #9ac8fc15}
+.deception-screen .deception-field input{font-size:7.4px;color:#dce6f2;letter-spacing:.03px}
+.deception-screen .deception-field input::placeholder{color:#94a6bf}
+.deception-screen .deception-field>svg,.deception-screen .deception-field button svg{width:11px;height:11px;color:#a5b9d3}
+.deception-screen .deception-options{margin:3px 0 14px;color:#bdcbe0;font-size:6.4px}
+.deception-screen .deception-options button{color:#90b3e4}
+.deception-screen .deception-options button:hover{color:#c2dafa}
+.deception-screen .deception-checkbox{position:relative;display:inline-block;width:10px;height:10px;flex:none}
+.deception-screen .deception-options input{position:absolute;inset:0;width:100%;height:100%;border:.7px solid #afcce07a;border-radius:3px;background:#0a172980;box-shadow:inset 0 1px 2px #0004;margin:0;appearance:none}
+.deception-screen .deception-options input:checked{appearance:none;background:#365a8666;border-color:#aacbf0a0}
+.deception-screen .deception-checkbox svg{position:absolute;inset:1px;width:8px;height:8px;pointer-events:none;color:#d0e6ff;opacity:0}
+.deception-screen .deception-checkbox input:checked+svg{opacity:1}
+.deception-screen .deception-submit{position:relative;isolation:isolate;overflow:hidden;height:28px;gap:6px;border:.6px solid #85b4f044;border-top-color:#c6def780;border-bottom-color:#6299dd55;border-radius:15px;background:radial-gradient(ellipse at 5% 0%,#8bb7e552,transparent 53%),radial-gradient(ellipse at 98% 100%,#538bd743,transparent 47%),#17396ac7;box-shadow:inset 0 1px 1px #d4e8ff30,inset 0 -2px 3px #5580b822,0 2px 4px #00000026;font-size:8px;font-weight:450;color:#e8f1fe}
+.deception-screen .deception-submit:before{content:'';position:absolute;left:7%;right:18%;top:0;height:1px;background:linear-gradient(90deg,transparent,#e5f3ff6b,transparent);transform:translateX(var(--glass-x,0px));pointer-events:none;z-index:-1}
+.deception-screen .deception-submit:hover:not(:disabled){transform:scale(1.01);background-color:#21477ac7}
+.deception-screen .deception-submit:hover svg{transform:translateX(1px)}
+.deception-screen .deception-footer{display:flex;align-items:center;justify-content:center;gap:4px;margin-top:13px;padding-top:10px;border-top:.5px solid #9db7d51c;font-size:6px;color:#93aac9;text-align:center}
+.deception-screen .deception-footer svg{width:10px;height:11px;flex:none;color:#98bde9}
+.deception-screen .deception-demo{font-size:4.5px;line-height:1.45;color:#8698b0;text-align:center;margin-top:5px}
+@media(max-width:767px){
+ .deception-screen .deception-browser{gap:5px;right:9px}.deception-screen .deception-address{padding:0 6px;gap:4px}.deception-screen .deception-url{font-size:8px;letter-spacing:-.15px}.deception-screen .deception-reader{margin-right:1px}.deception-screen .deception-browser-actions{gap:5px}.deception-screen .deception-browser-actions button{width:13px}.deception-screen .deception-browser-actions svg{width:13px;height:13px}
+ .deception-screen .deception-header>div{font-size:15px}.deception-screen .deception-header img{width:24px;height:24px}
+ .deception-screen .deception-login{padding:24px 20px 18px;border-radius:16px}.deception-screen .deception-login-heading{padding:0}.deception-screen .deception-eyebrow{font-size:8px;margin-bottom:10px}.deception-screen .deception-login h2{font-size:29px;letter-spacing:-.8px;margin-bottom:8px}.deception-screen .deception-intro{font-size:12px;margin-bottom:23px;white-space:normal}
+ .deception-screen .deception-field{height:44px;padding:10px;gap:8px}.deception-screen .deception-field input{font-size:16px}.deception-screen .deception-field>svg,.deception-screen .deception-field button svg{width:18px;height:18px}
+ .deception-screen .deception-options{font-size:10px;margin:8px 0 20px}.deception-screen .deception-checkbox{width:14px;height:14px}.deception-screen .deception-checkbox svg{inset:2px;width:10px;height:10px}
+ .deception-screen .deception-submit{height:44px;font-size:15px}.deception-screen .deception-submit:hover svg{transform:translateX(3px)}.deception-screen .deception-footer{font-size:10px;margin-top:20px;padding-top:16px}.deception-screen .deception-footer svg{width:16px;height:17px}.deception-screen .deception-demo{font-size:8px;margin-top:10px}
+}
+/* Optical balancing from the first reference comparison. */
+.deception-screen .deception-header{height:25px}
+.deception-screen .deception-login{padding:18px 18px 10px;border-color:#aec6df35;border-top-color:#c1ddf66b;border-left-color:#b1cee952;border-right-color:#9ab5cd21;border-bottom-color:#a4c1de3a}
+.deception-screen .deception-login h2{font-family:'Segoe UI Light','Helvetica Neue',-apple-system,BlinkMacSystemFont,sans-serif;font-size:24px;font-weight:300;letter-spacing:-.8px}
+.deception-screen .deception-intro{margin-bottom:12px}
+.deception-screen .deception-login:before{background:radial-gradient(ellipse at 1% 0%,#d6edff7a,transparent 9%),radial-gradient(ellipse at 97% 0%,#d4e7fd32,transparent 6%),radial-gradient(ellipse at 0% 100%,#d7eaff40,transparent 6%)}
+.deception-screen .deception-login:after{background:radial-gradient(ellipse 130% 100% at 0% -50%,transparent 58%,#88b5e326 58.5%,#335b8810 63%,transparent 64%),linear-gradient(114deg,transparent 7%,#9dc7f007 8%,transparent 18%,transparent 80%,#9dc7f005 83%,transparent 86%)}
+.deception-screen .deception-field{border-color:#b4cae23d;border-top-color:#bed3ed42;border-bottom-color:#a7c3e125;background-color:#1221365a}
+.deception-screen .deception-options{margin-bottom:12px}
+.deception-screen .deception-submit{background:radial-gradient(ellipse at 3% 0%,#acd4f96b,transparent 28%),radial-gradient(ellipse at 99% 100%,#508be54d,transparent 34%),#102c56c7;border-top-color:#c6def788;box-shadow:inset 0 1px 1px #d4e8ff40,inset 0 -2px 3px #5580b827,0 2px 4px #00000026}
+.deception-screen .deception-footer{margin-top:10px}
+@media(max-width:767px){
+ .deception-screen .deception-header{height:45px}
+ .deception-screen .deception-login{padding:24px 20px 18px}
+ .deception-screen .deception-login h2{font-size:29px}
+ .deception-screen .deception-intro{margin-bottom:23px}
+ .deception-screen .deception-options{margin-bottom:20px}
+ .deception-screen .deception-footer{margin-top:20px}
+}
+/* Localized optical edges: mask out the center rather than washing it with light. */
+.deception-screen .deception-login:before{inset:0;padding:.65px;background:radial-gradient(ellipse at 0% 0%,#e4f3ffc2,transparent 31%),radial-gradient(ellipse at 100% 0%,#d4e7fd6b,transparent 10%),radial-gradient(ellipse at 0% 100%,#d7eaff72,transparent 11%);mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);mask-composite:exclude}
+.deception-screen .deception-submit:after{content:'';position:absolute;inset:0;padding:.65px;border-radius:inherit;background:radial-gradient(ellipse at 0% 0%,#d9efffa6,transparent 40%),radial-gradient(ellipse at 100% 100%,#84b5f788,transparent 35%);mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);mask-composite:exclude;pointer-events:none}
+
+
+/* A1A9D646 master: localized optical layers; all controls remain live HTML. */
+.deception-screen .deception-login{background:radial-gradient(ellipse at 4% 2%,#31598565,transparent 48%),#081426b5;box-shadow:inset 1px 0 2px #b5d9fa50,inset -1px 0 2px #a5c8e833,inset 0 -1px 2px #daeaff55,0 5px 10px #01061355;border-color:#9ebfdf45;border-top-color:#d4e7f88a}
+.deception-screen .deception-login:before{padding:.8px;background:radial-gradient(ellipse at 0 0,#f1faff,transparent 28%),radial-gradient(ellipse at 100% 0,#d9eaffd9,transparent 13%),radial-gradient(ellipse at 0 100%,#e3f4fff2,transparent 15%),radial-gradient(ellipse at 100% 100%,#e9f7ff,transparent 12%)}
+.deception-screen .deception-login:after{inset:1px;background:radial-gradient(ellipse 115% 80% at 47% -49%,transparent 72%,#b0e4ff9c 73%,#468fe552 75%,transparent 81%),linear-gradient(111deg,transparent 73%,#759ec722 74%,transparent 91%);border:0;opacity:.9}
+.deception-optics{position:absolute;inset:1px;border-radius:inherit;z-index:-1;pointer-events:none;transform:translate(var(--glass-x,0px),var(--glass-y,0px));background:radial-gradient(ellipse 15% 25% at 0% 1%,#c6eaff80,transparent 90%),radial-gradient(ellipse 10% 6% at 100% 100%,#bce2ff9c,transparent 90%),radial-gradient(ellipse 8% 7% at 0% 100%,#c7e5ff8a,transparent 90%),linear-gradient(155deg,transparent 40%,#81b5ef0d 41%,transparent 47%)}
+.deception-screen .deception-header nav{gap:13px}.deception-screen .deception-header nav svg{width:11px;height:11px;color:#8baace}
+.deception-screen .deception-options input{transition:background-color .28s,border-color .28s}.deception-screen .deception-checkbox svg{transition:opacity .28s}
+.deception-screen .deception-submit{background:radial-gradient(ellipse at 0% 0%,#c2e8ff9e,transparent 30%),radial-gradient(ellipse at 100% 100%,#5195fbbf,transparent 40%),radial-gradient(ellipse at 50% -80%,#548bd96b,transparent 77%),#123365d9;border-top-color:#d8eeffb0;border-bottom-color:#8ac1ff99;box-shadow:inset 0 1px 1px #dcf2ff80,inset 0 -2px 3px #4e94ed70,0 2px 4px #0003}
+.deception-screen .deception-submit:before{inset:0;height:auto;background:radial-gradient(ellipse at 12% 0%,#d8f1ff35,transparent 45%);transform:translate(var(--glass-x,0px),var(--glass-y,0px))}
+.deception-screen .deception-submit:active:not(:disabled){transform:scale(.995)}
+@media(min-width:768px){
+ .deception-screen .deception-site{top:53px}
+ .deception-screen .deception-status{top:8px}
+ .deception-screen .deception-island{top:5px}
+ .deception-screen .deception-browser{top:26px;height:22px}
+ .deception-screen .deception-address{height:22px}
+ .deception-screen .deception-header{height:31px;padding:0 16px}
+ .deception-screen .deception-login{width:218px;margin:3px 0 0 12px;padding:19px 18px 7px}
+ .deception-screen .deception-login-heading{padding:0 9px}
+ .deception-screen .deception-login h2{font-size:23px;margin-bottom:4px}
+ .deception-screen .deception-intro{margin-bottom:13px;font-size:7.3px}
+ .deception-screen .deception-field{min-height:22px;padding:5px 8px;margin-bottom:7px;background:#25334c55;border-color:#b0c8e24f}
+ .deception-screen .deception-options{margin:2px 0 11px}
+ .deception-screen .deception-submit{height:26px}
+ .deception-screen .deception-footer{margin-top:11px;padding-top:8px}
+ .deception-screen .deception-demo{margin-top:4px;font-size:4.1px}
+ .deception-screen .deception-shield{width:110px;height:153px;right:0;top:87px;mask-image:none}
+}
+/* Comparison correction: refraction enters at the upper-left, not as a full arc. */
+.deception-screen .deception-login:after{background:radial-gradient(ellipse 140% 85% at 90% 68%,transparent 72%,#67b4f650 73%,#bcecff7a 73.5%,#458be438 75%,transparent 80%),linear-gradient(111deg,transparent 73%,#759ec717 74%,transparent 91%);opacity:.8}
+.deception-screen .deception-shield{mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent),linear-gradient(180deg,transparent,#000 13%,#000 84%,transparent);mask-composite:intersect}
+@media(min-width:768px){.deception-screen .deception-login{padding-bottom:5px}.deception-screen .deception-footer{margin-top:9px;padding-top:7px}.deception-screen .deception-intro{margin-bottom:11px}}
+.deception-screen .deception-login:after{background-size:100% 25%,100% 100%;background-repeat:no-repeat}
+@media(min-width:768px){.deception-screen .deception-shield{width:130px;height:169px;right:-9px;top:80px}}
+@media(min-width:768px){
+ .deception-screen .deception-login{padding:16px 24px 5px}
+ .deception-screen .deception-login-heading{padding:0 3px}
+ .deception-screen .deception-login h2{font-size:25px;letter-spacing:-.85px}
+ .deception-screen .deception-intro{font-size:7.8px;margin-bottom:8px}
+}
+.deception-screen .deception-optics{background:radial-gradient(ellipse 20% 25% at 0% 1%,#9bd1ff99,transparent 90%),radial-gradient(ellipse 12% 7% at 100% 100%,#bce2ffb0,transparent 90%),radial-gradient(ellipse 8% 7% at 0% 100%,#c7e5ff9e,transparent 90%),linear-gradient(155deg,transparent 40%,#81b5ef0d 41%,transparent 47%)}
+@media(min-width:768px){
+ .deception-screen .deception-status{top:0}
+ .deception-screen .deception-island{top:-3px}
+ .deception-screen .deception-browser{top:18px}
+ .deception-screen .deception-site{top:47px}
+ .deception-screen .deception-header{height:38px}
+}
+@media(min-width:768px){
+ .deception-screen .deception-login h2{font-size:28.5px;letter-spacing:-1px}
+ .deception-screen .deception-intro{margin-bottom:10px}
+ .deception-screen .deception-options{margin-bottom:12px}
+}

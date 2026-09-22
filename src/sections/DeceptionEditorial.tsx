@@ -1,0 +1,2 @@
+import { MouseSimple } from '@phosphor-icons/react';
+export function DeceptionEditorial(){return <aside className="deception-editorial" aria-hidden="true"><p className="deception-editorial-top">SAME WORLD.<br/>A SAFER TOMORROW.<i/></p><p className="deception-editorial-brand">Vynex Bank<small>Secure Banking<br/>for a Brighter Tomorrow.</small></p><p className="deception-editorial-right">Your security<br/>is our priority.<i/><small>Bank. Safer.<br/>Brighter Together.</small></p><p className="deception-editorial-scroll"><MouseSimple/>Scroll for more</p></aside>;}
