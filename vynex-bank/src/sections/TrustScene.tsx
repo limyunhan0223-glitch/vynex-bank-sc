@@ -20,7 +20,7 @@ const VynexScene=lazy(()=>import('../three/VynexScene'));
 gsap.registerPlugin(ScrollTrigger);
 export function TrustScene(){
  useProtectionScroll();
- const host=useRef<HTMLElement>(null),motion=useRef(initialMotion());
+ const host=useRef<HTMLElement>(null),transitionAnchor=useRef<HTMLDivElement>(null),motion=useRef(initialMotion());
  const reduced=useReducedMotion(),pointer=useParallax(reduced);
  const [dialog,setDialog]=useState<string|null>(null),[compact,setCompact]=useState(innerWidth<768);
  const [phoneMounted,setPhoneMounted]=useState(false),[active,setActive]=useState(false);
@@ -46,7 +46,7 @@ export function TrustScene(){
     .to(motion.current,{notification:1,ease:'power2.out',duration:.45},2.85)
     .to({}, {duration:.35});
    trigger.current=ScrollTrigger.create({
-    trigger:compact?'#transition':host.current,animation:tl,
+    trigger:compact?transitionAnchor.current:host.current,animation:tl,
     start:compact?'top 70%':'top top',end:()=>`+=${innerHeight*(compact?2.2:3.15)}`,
     pin:!compact,scrub:reduced?true:1.3,anticipatePin:1,invalidateOnRefresh:true,
     onUpdate:()=>invalidate.current?.(),
@@ -78,5 +78,5 @@ export function TrustScene(){
   context.current?.add(()=>{focusTween.current=gsap.to(motion.current,{focus:1,duration:reduced?0:1.45,ease:'power2.inOut',onUpdate:()=>invalidate.current?.()});});
  };
  const enterExperience=()=>{const st=trigger.current;if(st)window.scrollTo({top:st.start+(st.end-st.start)*.92,behavior:reduced?'instant':'smooth'});};
- return <><main id="home" ref={host} className={`trust-scene ${reduced?'reduced-motion':''}`}><div className="architecture"/><div className="architecture scene03-architecture" aria-hidden="true"/><div className="scene-shade"/><Navbar onAction={setDialog}/><HeroContent onAction={setDialog}/><div className="visual-stage"><SceneErrorBoundary><Suspense fallback={<div className="scene-loading">Preparing your tomorrow<span/></div>}><VynexScene motion={motion} pointer={pointer} reduced={reduced} compact={compact} phoneMounted={phoneMounted} active={active} onActivate={activate} invalidateRef={invalidate}/></Suspense></SceneErrorBoundary><FloatingPanels/></div><FeatureCards onAction={setDialog}/><ScrollIndicator onExperience={enterExperience}/><BaitScene active={active}/><DeceptionEditorial/><ProtectionScene reduced={reduced}/></main><div id="transition" className="scene-transition-anchor" aria-hidden="true"/><ExperienceDialog title={dialog} onClose={()=>setDialog(null)} onAction={setDialog}/></>;
+ return <><main id="home" ref={host} className={`trust-scene ${reduced?'reduced-motion':''}`}><div className="architecture"/><div className="architecture scene03-architecture" aria-hidden="true"/><div className="scene-shade"/><Navbar onAction={setDialog}/><HeroContent onAction={setDialog}/><div className="visual-stage"><SceneErrorBoundary><Suspense fallback={<div className="scene-loading">Preparing your tomorrow<span/></div>}><VynexScene motion={motion} pointer={pointer} reduced={reduced} compact={compact} phoneMounted={phoneMounted} active={active} onActivate={activate} invalidateRef={invalidate}/></Suspense></SceneErrorBoundary><FloatingPanels/></div><FeatureCards onAction={setDialog}/><ScrollIndicator onExperience={enterExperience}/><BaitScene active={active}/><DeceptionEditorial/><ProtectionScene reduced={reduced}/></main><div id="transition" ref={transitionAnchor} className="scene-transition-anchor" aria-hidden="true"/><ExperienceDialog title={dialog} onClose={()=>setDialog(null)} onAction={setDialog}/></>;
 }

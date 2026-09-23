@@ -39,3 +39,16 @@
    would force a second full compositing pass underneath the incoming system. */
 .protection-active .deception-login,.protection-active .bank-notification{backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
 
+/* Keep long control details reachable without scrolling the clipped camera stage.
+   Native scroll chaining still releases upward input at the panel boundary. */
+@media(min-width:768px){
+ .protection-copy{max-height:calc(81svh - 24px);overflow-y:auto;overscroll-behavior:auto;scrollbar-width:thin;scrollbar-color:#6e8ba344 transparent;padding:6px;margin:-6px}
+}
+.protection-content[data-active=false]{max-height:100%;overflow:clip}
+.protection-shell{overflow:clip}
+.protection-shell[data-layer=false]{border-radius:0;overflow-clip-margin:6px}
+@media(min-width:768px) and (max-height:820px){
+ .protection-selectors{bottom:10%}
+ .protection-progress{bottom:4%}
+}
+

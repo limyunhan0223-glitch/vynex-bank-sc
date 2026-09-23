@@ -54,6 +54,7 @@ export function ProtectionScene({reduced}:{reduced:boolean}){
  useEffect(()=>{
   if(!panel.current)return;
   const animations:Array<gsap.core.Tween>=[];
+  animations.push(gsap.to(panel.current,{scrollTop:0,duration:reduced?0:.45,ease:'power3.out',overwrite:'auto'}));
   const shell=panel.current.querySelector<HTMLElement>('.protection-shell')!;
   const activeContent=shell.children[state.selected===null?3:state.selected].firstElementChild as HTMLElement;
   const resize=()=>{gsap.to(shell,{height:activeContent.offsetHeight,duration:reduced?.15:.45,ease:'power3.out',overwrite:true});};

@@ -61,6 +61,7 @@ function ProtectionRing({index,reduced}:{index:ProtectionLayer;reduced:boolean})
 export function ProtectionSystem({reduced}:{reduced:boolean}){
  const state=useProtection(),lights=useRef<THREE.Group>(null),root=useRef<THREE.Group>(null),core=useRef<THREE.Group>(null),progress=useRef(-1),coreLight=useRef(0),cameraOffset=useRef(0),scrollCurrent=useRef(0);
  const {camera,gl,size,scene,invalidate}=useThree();const texture=useMemo(coreTexture,[]);
+ const projectionSize=useRef({width:0,height:0});
  const legacyMaterials=useRef<{material:THREE.Material;opacity:number;transparent:boolean}[]>([]),coreMaterials=useRef<THREE.MeshStandardMaterial[]>([]);
  const destination=useMemo(()=>new THREE.Vector3(0,0,12),[]),orientation=useMemo(()=>new THREE.Quaternion(),[]);
  const start=useRef<{position:THREE.Vector3;quaternion:THREE.Quaternion;fov:number;offsetX:number;offsetY:number}|null>(null);
@@ -111,7 +112,7 @@ export function ProtectionSystem({reduced}:{reduced:boolean}){
   lights.current?.children.forEach((light,index)=>{(light as THREE.Light).intensity=[.7,2.5,1.4][index]*p;});
   cameraOffset.current=THREE.MathUtils.damp(cameraOffset.current,state.selected!==null?-.2:0,5,dt);c.position.lerpVectors(origin.position,destination,p);c.position.z+=cameraOffset.current*p;
   c.quaternion.copy(origin.quaternion).slerp(orientation,p);
-  if(progress.current!==p||c.aspect!==size.width/size.height){const fullHeight=THREE.MathUtils.lerp(size.height,mobile?size.height*.55:size.height,p);c.fov=THREE.MathUtils.lerp(origin.fov,38,p);c.setViewOffset(size.width,fullHeight,origin.offsetX*(1-p),origin.offsetY*(1-p),size.width,size.height);c.updateProjectionMatrix();progress.current=p;}
+  if(progress.current!==p||projectionSize.current.width!==size.width||projectionSize.current.height!==size.height){const fullHeight=THREE.MathUtils.lerp(size.height,mobile?size.height*.55:size.height,p);c.fov=THREE.MathUtils.lerp(origin.fov,38,p);c.setViewOffset(size.width,fullHeight,origin.offsetX*(1-p),origin.offsetY*(1-p),size.width,size.height);c.updateProjectionMatrix();progress.current=p;projectionSize.current={width:size.width,height:size.height};}
   pointer.current.x=THREE.MathUtils.damp(pointer.current.x,pointer.current.targetX,3.5,dt);pointer.current.y=THREE.MathUtils.damp(pointer.current.y,pointer.current.targetY,3.5,dt);
   root.current.position.set(mobile?0:-2.45,mobile?0:.25,0);root.current.scale.setScalar(mobile?.82:1);
   scrollCurrent.current=THREE.MathUtils.damp(scrollCurrent.current,scroll.current,4,dt);root.current.rotation.set(reduced?0:pointer.current.y,reduced?0:pointer.current.x+scrollCurrent.current,0);

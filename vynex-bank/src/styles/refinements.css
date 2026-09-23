@@ -106,4 +106,10 @@
 @media(min-width:1600px){.hero-copy h1{font-size:70px;line-height:1.04;margin-bottom:20px}.intro{font-size:21px;line-height:1.6}.hero-actions{margin-top:32px}.stats{margin-top:50px}}
 @media(min-width:1101px) and (max-width:1599px){.finance{left:8%;width:122px}.bottom-content{align-items:flex-end}.manifesto{margin-bottom:3px}}
 @media(min-width:768px) and (max-width:1100px){.finance{left:3%;top:4%;width:110px}}
+
+/* Clip decorative overflow without letting focus scroll the camera stage. */
+.trust-scene{overflow:clip}
+@media(min-width:768px) and (max-height:759px){
+ .scroll-indicator{bottom:calc(100% - 100svh + 8px);flex-direction:row;gap:10px}
+}
 @media(max-width:767px){.floating-panels .finance{top:0%}}

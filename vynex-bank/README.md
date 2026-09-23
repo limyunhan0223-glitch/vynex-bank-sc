@@ -19,7 +19,15 @@ npm run build
 npm run preview -- --port 4174
 ```
 
-Production frontend output is `dist/client`. The existing starter's Sites packaging is preserved, but this project has not been published.
+Production output is `dist/index.html` and `dist/assets/*`. The build runs a read-only verification of the generated JavaScript entry and all public assets; it does not emit a Sites worker.
+
+## Vercel deployment
+
+Use Root Directory `vynex-bank`, Framework `Vite`, Build Command `npm run build`, and Output Directory `dist`. The app's `vercel.json` explicitly sets these build options (the Root Directory is a Vercel project setting).
+
+If Vercel is configured to use the Git repository root instead, the root `vercel.json` delegates installation and building to `vynex-bank` and publishes `vynex-bank/dist`. Neither configuration publishes the source repository. No catch-all rewrite is needed for this single-page, scroll-based experience.
+
+Do not publish the source `index.html`: its `/src/main.tsx` entry is for Vite development. Vite replaces that entry with `/assets/index-[hash].js` in the generated `dist/index.html`.
 
 ## Files created or changed
 
@@ -74,6 +82,6 @@ The final master is Photo 1 in attachment folder `2A872DDA-B1EA-450F-9D04-7D9430
 
 Scene 01 is visually locked. The latest Scene 02 reference is Photo 1 in attachment folder `16C01498-195D-4A52-BB35-40596438A75A`. Scene 02 shares the existing canvas, environment, card and typography ring. Its screen is accessible HTML projected onto an unbranded physical 3D phone. The phone enters from below/right with damping; the notification waits for the reveal phase and physical settling. Click only advances local focus, with no navigation or future scene.
 
-Run the project with `npm run dev -- --host 127.0.0.1 --port 4173 --strictPort`, then open http://localhost:4173/. The current local preview is already running. Build with `npm run build`; run the added motion checks with `node --test tests/bait-motion.test.mjs` (Node 24 used for TypeScript stripping), and existing packaging checks with `npm run test:sites`.
+Run the project with `npm run dev -- --host 127.0.0.1 --port 4173 --strictPort`, then open http://localhost:4173/. Build with `npm run build`; run the added motion checks with `node --test tests/bait-motion.test.mjs` (Node 24 used for TypeScript stripping), and check production output with `npm run verify:build`.
 
 See `design-qa.md` for the current Scene 02 file list, visual comparison, interaction checks and performance limits. The prior locked Scene 01 report is retained in `qa/scene01-design-qa.md`.

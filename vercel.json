@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "npm --prefix vynex-bank ci",
+  "buildCommand": "npm --prefix vynex-bank run build",
+  "outputDirectory": "vynex-bank/dist"
+}

@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build && node scripts/prepare-sites-build.mjs",
+    "build": "tsc --noEmit && vite build && node scripts/verify-production-build.mjs",
     "typecheck": "tsc --noEmit",
     "preview": "vite preview",
-    "test:sites": "node --test tests/sites-worker.test.mjs"
+    "verify:build": "node scripts/verify-production-build.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
