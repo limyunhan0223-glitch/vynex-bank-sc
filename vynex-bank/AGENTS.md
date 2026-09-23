@@ -1,5 +1,8 @@
 # Prototype Instructions
 
+## Mobile-only refinement (2026-09-23)
+Desktop is approved. Scope responsive repairs to widths below 768px and compact 3D branches. Preserve all scenes, controls, supplied alarm, glass materials and native reverse navigation. Use stable small-viewport geometry and safe-area spacing; retain live 3D. Do not change deployment, routing, build configuration or asset paths. No push or deployment is authorized for this pass.
+
 Run the local server yourself and open the preview in the browser available to this environment. Do not give the user server-start instructions when you can run it.
 
 Before making substantial visual changes, use the Product Design plugin's `get-context` skill when the visual source is unclear or no longer matches the current goal. When the user gives durable prototype-specific design feedback, preferences, or decisions, record them in `AGENTS.md`.

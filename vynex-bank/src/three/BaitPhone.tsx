@@ -71,7 +71,9 @@ export function BaitPhone({motion,pointer,reduced,compact,active,onActivate}:Pro
   }
   if(protectionMotion.started)return;
   const remaining=Math.hypot(g.position.x-pose.x,g.position.y-pose.y,g.position.z-pose.z);
-  const ready=m.phone>.995&&(active||notificationReady(m.notification,remaining));
+  // Mobile viewport refreshes can rewind the scroll entrance while the focused
+  // login/forensic page is still fully visible. Its settled controls stay usable.
+  const ready=(compact&&active&&f>.995&&remaining<.035)||m.phone>.995&&(active||notificationReady(m.notification,remaining));
   // Keep the whole lock screen hidden until the physical device enters.
   if(screen.current){screen.current.style.visibility=g.visible?'visible':'hidden';screen.current.inert=!ready;screen.current.setAttribute('aria-hidden',String(!ready));screen.current.dataset.settled=String(remaining<.035);screen.current.dataset.entrance=m.phone.toFixed(3);}
   if(notification.current){

@@ -47,7 +47,8 @@ export function TrustScene(){
     .to({}, {duration:.35});
    trigger.current=ScrollTrigger.create({
     trigger:compact?transitionAnchor.current:host.current,animation:tl,
-    start:compact?'top 70%':'top top',end:()=>`+=${innerHeight*(compact?2.2:3.15)}`,
+    start:compact?()=>`top ${(transitionAnchor.current!.clientHeight/2.8)*.7}px`:'top top',
+    end:()=>`+=${compact?(transitionAnchor.current!.clientHeight/2.8)*2.2:innerHeight*3.15}`,
     pin:!compact,scrub:reduced?true:1.3,anticipatePin:1,invalidateOnRefresh:true,
     onUpdate:()=>invalidate.current?.(),
    });

@@ -1,0 +1,75 @@
+/* Portrait composition only. Desktop materials, poses and timings stay unchanged. */
+@media (max-width:767px) {
+  html { -webkit-text-size-adjust:100%;scrollbar-width:none; }
+  html::-webkit-scrollbar { display:none; }
+  .vynex-session { min-height:100svh; }
+  .trust-scene { padding-bottom:calc(70px + env(safe-area-inset-bottom,0px)); }
+  .navbar { padding-top:env(safe-area-inset-top,0px);height:calc(76px + env(safe-area-inset-top,0px)); }
+  .hero-copy { margin-top:28px; }
+  .hero-actions { gap:12px;flex-wrap:wrap; }
+  .hero-actions .optical-button { flex:none;padding:14px 18px;white-space:nowrap;gap:10px; }
+  .story { min-height:44px;white-space:nowrap; }
+  .stats { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;margin-top:26px; }
+  .stats>div { min-width:0;padding-inline:10px; }
+  .stats strong { font-size:clamp(20px,6vw,25px); }
+  .stats small { line-height:1.5; }
+  .visual-stage { height:clamp(340px,105vw,430px);margin-top:22px; }
+  .floating-panels .finance { top:3%; }
+  .feature { min-width:0;min-height:180px;padding:18px 14px; }
+  .feature h2 { line-height:1.3; }
+  .scroll-indicator { bottom:calc(16px + env(safe-area-inset-bottom,0px)); }
+
+  /* Stable scene geometry avoids address-bar-driven camera/HTML disagreement. */
+  .trust-scene.bait-mobile-active .visual-stage,
+  .phone-stage-ready .visual-stage { top:0!important;height:100svh!important; }
+  .bait-layer { height:100svh;bottom:auto; }
+  .bait-copy { top:calc(6svh + env(safe-area-inset-top,0px)); }
+  .bait-copy h2 { font-size:clamp(28px,8vw,35px); }
+  .bait-eyebrow { margin-bottom:12px; }
+
+  /* The phone is a projected 326px surface: allow for its physical screen scale. */
+  .deception-screen .deception-login { padding:22px 16px 18px; }
+  .deception-screen .deception-field { min-height:52px;height:auto;margin-bottom:12px; }
+  .deception-screen .deception-field input { font-size:18px; }
+  .deception-screen .deception-field button { min-width:36px;min-height:32px; }
+  .deception-screen .deception-options { gap:8px;margin:2px 0 12px;font-size:12px; }
+  .deception-options label,.deception-options button { min-height:44px; }
+  .deception-options input { flex:none;width:18px;height:18px; }
+  .deception-screen .deception-submit { height:52px;font-size:17px; }
+  .deception-screen .deception-demo { font-size:10px;line-height:1.5; }
+  .deception-screen .deception-footer { margin-top:16px;padding-top:12px; }
+  .deception-screen .deception-login { backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px); }
+  .breach-tabs button { min-height:48px;font-size:13px; }
+  .evidence-message { font-size:12px;line-height:1.5; }
+  .breach-primary,.breach-reveal .vynex-glass-cta { min-height:50px; }
+  .breach-reveal .vynex-cta-label { white-space:normal;text-wrap:balance; }
+  .breach-audio-toggle { min-width:36px;min-height:36px;display:grid;place-items:center; }
+
+  /* One native vertical scroller; no wheel/touch cancellation at its boundaries. */
+  .protection-scene { height:100svh;bottom:auto;padding:0 max(18px,env(safe-area-inset-right,0px)) calc(28px + env(safe-area-inset-bottom,0px)) max(18px,env(safe-area-inset-left,0px));overflow-x:clip;scrollbar-width:none;scroll-padding-block:16px; }
+  .protection-scene::-webkit-scrollbar { display:none; }
+  .protection-brand { top:calc(22px + env(safe-area-inset-top,0px));left:22px;font-size:13px; }
+  .protection-selectors { top:44svh;left:18px;width:calc(100% - 36px);gap:8px; }
+  .protection-selectors button { position:relative;min-width:0;min-height:52px;flex-direction:column;align-items:flex-start;gap:7px;font-size:8px;padding:12px 0;letter-spacing:.035em; }
+  .protection-selectors button>.layer-dot,.protection-selectors button>svg { position:absolute;right:2px;top:14px; }
+  .protection-selectors button>span:not(.layer-dot) { overflow-wrap:anywhere; }
+  .protection-copy { margin-top:calc(44svh + 72px);min-width:0; }
+  .protection-information { padding:22px 16px; }
+  .protection-information h2 { font-size:clamp(26px,7.4vw,32px); }
+  .protection-intro h1 { font-size:clamp(34px,9.7vw,42px); }
+  .protection-eyebrow { letter-spacing:.18em;margin-bottom:18px!important; }
+  .protection-description { line-height:1.6;margin-bottom:20px; }
+  .protection-control { min-height:48px;padding:12px 10px; }
+  .control-title { gap:8px;font-size:13px;line-height:1.4; }
+  .control-title>span { min-width:0;overflow-wrap:break-word; }
+  .control-title small { flex:none;font-size:7px; }
+  .control-detail>span { font-size:13px;line-height:1.6; }
+  .protection-explore,.protection-align { min-height:48px; }
+  .protection-progress { margin-top:24px; }
+  .protection-hint { margin-top:24px; }
+  .protection-intro .vynex-glass-cta { max-width:100%; }
+}
+@media (max-width:767px) and (hover:none) {
+  .deception-submit:hover:not(:disabled),.bank-notification:hover:not(:disabled),
+  .protection-explore:hover { transform:none; }
+}

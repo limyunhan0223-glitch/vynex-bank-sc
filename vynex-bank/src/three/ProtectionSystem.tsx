@@ -114,7 +114,9 @@ export function ProtectionSystem({reduced}:{reduced:boolean}){
   c.quaternion.copy(origin.quaternion).slerp(orientation,p);
   if(progress.current!==p||projectionSize.current.width!==size.width||projectionSize.current.height!==size.height){const fullHeight=THREE.MathUtils.lerp(size.height,mobile?size.height*.55:size.height,p);c.fov=THREE.MathUtils.lerp(origin.fov,38,p);c.setViewOffset(size.width,fullHeight,origin.offsetX*(1-p),origin.offsetY*(1-p),size.width,size.height);c.updateProjectionMatrix();progress.current=p;projectionSize.current={width:size.width,height:size.height};}
   pointer.current.x=THREE.MathUtils.damp(pointer.current.x,pointer.current.targetX,3.5,dt);pointer.current.y=THREE.MathUtils.damp(pointer.current.y,pointer.current.targetY,3.5,dt);
-  root.current.position.set(mobile?0:-2.45,mobile?0:.25,0);root.current.scale.setScalar(mobile?.82:1);
+  // Fit the complete outer ring to portrait width, retaining the upper-stage depth.
+  const mobileScale=Math.min(.82,size.width/(size.height*.55)*1.1);
+  root.current.position.set(mobile?0:-2.45,mobile?0:.25,0);root.current.scale.setScalar(mobile?mobileScale:1);
   scrollCurrent.current=THREE.MathUtils.damp(scrollCurrent.current,scroll.current,4,dt);root.current.rotation.set(reduced?0:pointer.current.y,reduced?0:pointer.current.x+scrollCurrent.current,0);
   coreLight.current=THREE.MathUtils.damp(coreLight.current,state.complete?.055:0,5,dt);
   if(core.current){const v=protectionMotion.core*(1-restartMotion.core);core.current.scale.setScalar(reduced?1:.92+v*.08);core.current.position.z=reduced?0:-(1-v)*.65;core.current.visible=v>.005;for(const material of coreMaterials.current){material.opacity=v;material.emissiveIntensity=coreLight.current;}core.current.rotation.y=THREE.MathUtils.damp(core.current.rotation.y,-.22+(state.complete?.07:0),5,dt);}

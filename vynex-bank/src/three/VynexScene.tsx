@@ -43,6 +43,8 @@ function Objects({motion,pointer,reduced,compact,phoneMounted,active,onActivate,
   host.classList.toggle('phone-stage-ready',phoneMounted);
   if(active)host.classList.add('deception-active');
   const expanded=gl.domElement.parentElement!.getBoundingClientRect();
+  // The mobile stage uses svh, not Safari's changing address-bar viewport.
+  if(compact&&phoneMounted)outer.height=expanded.height;
   actualFrame.current={height:expanded.height,offsetX:expanded.left+expanded.width/2-outer.left-outer.width/2,offsetY:expanded.top+expanded.height/2-outer.top-outer.height/2,fullHeight:outer.height};
   // Resize the renderer before paint, alongside its camera compensation.
   if(Math.abs(get().size.width-expanded.width)>.1||Math.abs(get().size.height-expanded.height)>.1)setSize(expanded.width,expanded.height,expanded.top,expanded.left);
@@ -120,7 +122,7 @@ function Objects({motion,pointer,reduced,compact,phoneMounted,active,onActivate,
 }
 export default function VynexScene(props:SceneProps){const protection=useProtection();const breach=useBreach();const [visible,setVisible]=useState(!document.hidden);const host=useRef<HTMLDivElement>(null);
  useEffect(()=>{let intersecting=true;const update=()=>setVisible(!document.hidden&&intersecting);const observer=new IntersectionObserver(([e])=>{intersecting=e.isIntersecting;update();});if(host.current)observer.observe(host.current);document.addEventListener('visibilitychange',update);return()=>{observer.disconnect();document.removeEventListener('visibilitychange',update);};},[]);
- return <div className="scene-canvas" ref={host} role={props.phoneMounted?"group":"img"} aria-label="Floating navy Vynex Bank card above a rotating extruded VYNEX BANK typography ring and a chrome glass pedestal"><Canvas resize={{debounce:0}} dpr={breach.forensic||protection.entered?1.15:props.phoneMounted?.65:[1,props.compact?1.15:1.25]} frameloop={!visible?'never':protection.entered&&protection.ready||props.reduced?'demand':'always'} camera={{position:[0,1.35,10.5],fov:40}} gl={{antialias:true,alpha:true,powerPreference:'high-performance'}} onCreated={({camera})=>{camera.lookAt(0,-.35,0);}}><Suspense fallback={null}><group name="legacy-vynex-world"><Objects {...props}/></group><BreachTriangles/></Suspense><Suspense fallback={null}><ProtectionSystem reduced={props.reduced}/></Suspense></Canvas></div>;
+ return <div className="scene-canvas" ref={host} role={props.phoneMounted?"group":"img"} aria-label="Floating navy Vynex Bank card above a rotating extruded VYNEX BANK typography ring and a chrome glass pedestal"><Canvas resize={{debounce:0}} dpr={props.compact?1.15:breach.forensic||protection.entered?1.15:props.phoneMounted?.65:[1,1.25]} frameloop={!visible?'never':protection.entered&&protection.ready||props.reduced?'demand':'always'} camera={{position:[0,1.35,10.5],fov:40}} gl={{antialias:true,alpha:true,powerPreference:'high-performance'}} onCreated={({camera})=>{camera.lookAt(0,-.35,0);}}><Suspense fallback={null}><group name="legacy-vynex-world"><Objects {...props}/></group><BreachTriangles/></Suspense><Suspense fallback={null}><ProtectionSystem reduced={props.reduced}/></Suspense></Canvas></div>;
 }
 
 
